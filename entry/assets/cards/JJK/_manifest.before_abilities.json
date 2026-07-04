@@ -1,0 +1,248 @@
+[
+  {
+    "name": "Yuji Itadori",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuji_itadori.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori"
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\megumi_fushiguro.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro"
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\nobara_kugisaki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Nobara_Kugisaki"
+  },
+  {
+    "name": "Satoru Gojo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\satoru_gojo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo"
+  },
+  {
+    "name": "Maki Zenin",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\maki_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin"
+  },
+  {
+    "name": "Toge Inumaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\toge_inumaki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Toge_Inumaki"
+  },
+  {
+    "name": "Panda",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\panda.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Panda"
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuta_okkotsu.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu"
+  },
+  {
+    "name": "Kento Nanami",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kento_nanami.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami"
+  },
+  {
+    "name": "Aoi Todo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\aoi_todo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Aoi_Todo"
+  },
+  {
+    "name": "Mai Zenin",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mai_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mai_Zenin"
+  },
+  {
+    "name": "Kasumi Miwa",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kasumi_miwa.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kasumi_Miwa"
+  },
+  {
+    "name": "Noritoshi Kamo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\noritoshi_kamo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Noritoshi_Kamo"
+  },
+  {
+    "name": "Kokichi Muta",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kokichi_muta.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kokichi_Muta"
+  },
+  {
+    "name": "Kinji Hakari",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kinji_hakari.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kinji_Hakari"
+  },
+  {
+    "name": "Kirara Hoshi",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kirara_hoshi.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kirara_Hoshi"
+  },
+  {
+    "name": "Mei Mei",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mei_mei.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mei_Mei"
+  },
+  {
+    "name": "Yuki Tsukumo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuki_tsukumo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuki_Tsukumo"
+  },
+  {
+    "name": "Utahime Iori",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\utahime_iori.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Utahime_Iori"
+  },
+  {
+    "name": "Masamichi Yaga",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\masamichi_yaga.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Masamichi_Yaga"
+  },
+  {
+    "name": "Shoko Ieiri",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\shoko_ieiri.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Shoko_Ieiri"
+  },
+  {
+    "name": "Master Tengen",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\master_tengen.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Tengen"
+  },
+  {
+    "name": "Hiromi Higuruma",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hiromi_higuruma.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hiromi_Higuruma"
+  },
+  {
+    "name": "Fumihiko Takaba",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\fumihiko_takaba.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Fumihiko_Takaba"
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\ryomen_sukuna.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna"
+  },
+  {
+    "name": "Suguru Geto",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\suguru_geto.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto"
+  },
+  {
+    "name": "Kenjaku",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kenjaku.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kenjaku"
+  },
+  {
+    "name": "Mahito",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mahito.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mahito"
+  },
+  {
+    "name": "Jogo",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\jogo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Jogo"
+  },
+  {
+    "name": "Hanami",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hanami.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hanami"
+  },
+  {
+    "name": "Dagon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\dagon.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Dagon"
+  },
+  {
+    "name": "Toji Fushiguro",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\toji_fushiguro.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro"
+  },
+  {
+    "name": "Uraume",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\uraume.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Uraume"
+  },
+  {
+    "name": "Choso",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\choso.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Choso"
+  },
+  {
+    "name": "Eso",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\eso.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Eso"
+  },
+  {
+    "name": "Kechizu",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kechizu.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kechizu"
+  },
+  {
+    "name": "Naoya Zenin",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\naoya_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Naoya_Zenin"
+  },
+  {
+    "name": "Hajime Kashimo",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hajime_kashimo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hajime_Kashimo"
+  },
+  {
+    "name": "Reggie Star",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\reggie_star.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Reggie_Star"
+  },
+  {
+    "name": "Iori Hazenoki",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\iori_hazenoki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Iori_Hazenoki"
+  },
+  {
+    "name": "Remi",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\remi.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Remi"
+  }
+]

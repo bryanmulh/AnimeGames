@@ -1,0 +1,207 @@
+[
+  {
+    "file": "aoi_todo.png",
+    "duel": "B",
+    "team": "A"
+  },
+  {
+    "file": "choso.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "dagon.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "eso.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "fumihiko_takaba.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "hajime_kashimo.png",
+    "duel": "A",
+    "team": "B"
+  },
+  {
+    "file": "hanami.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "hiromi_higuruma.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "iori_hazenoki.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "jogo.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "kasumi_miwa.png",
+    "duel": "C",
+    "team": "C"
+  },
+  {
+    "file": "kechizu.png",
+    "duel": "C",
+    "team": "C"
+  },
+  {
+    "file": "kenjaku.png",
+    "duel": "S",
+    "team": "S"
+  },
+  {
+    "file": "kento_nanami.png",
+    "duel": "B",
+    "team": "A"
+  },
+  {
+    "file": "kinji_hakari.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "kirara_hoshi.png",
+    "duel": "B",
+    "team": "A"
+  },
+  {
+    "file": "kokichi_muta.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "mahito.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "mai_zenin.png",
+    "duel": "C",
+    "team": "C"
+  },
+  {
+    "file": "maki_zenin.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "masamichi_yaga.png",
+    "duel": "B",
+    "team": "A"
+  },
+  {
+    "file": "master_tengen.png",
+    "duel": "D",
+    "team": "S"
+  },
+  {
+    "file": "megumi_fushiguro.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "mei_mei.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "naoya_zenin.png",
+    "duel": "A",
+    "team": "B"
+  },
+  {
+    "file": "nobara_kugisaki.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "noritoshi_kamo.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "panda.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "reggie_star.png",
+    "duel": "B",
+    "team": "B"
+  },
+  {
+    "file": "remi.png",
+    "duel": "C",
+    "team": "C"
+  },
+  {
+    "file": "ryomen_sukuna.png",
+    "duel": "SS",
+    "team": "SS"
+  },
+  {
+    "file": "satoru_gojo.png",
+    "duel": "SS",
+    "team": "SS"
+  },
+  {
+    "file": "shoko_ieiri.png",
+    "duel": "D",
+    "team": "S"
+  },
+  {
+    "file": "suguru_geto.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "toji_fushiguro.png",
+    "duel": "A",
+    "team": "B"
+  },
+  {
+    "file": "toge_inumaki.png",
+    "duel": "B",
+    "team": "A"
+  },
+  {
+    "file": "uraume.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "utahime_iori.png",
+    "duel": "C",
+    "team": "A"
+  },
+  {
+    "file": "yuji_itadori.png",
+    "duel": "A",
+    "team": "A"
+  },
+  {
+    "file": "yuki_tsukumo.png",
+    "duel": "S",
+    "team": "A"
+  },
+  {
+    "file": "yuta_okkotsu.png",
+    "duel": "S",
+    "team": "S"
+  }
+]

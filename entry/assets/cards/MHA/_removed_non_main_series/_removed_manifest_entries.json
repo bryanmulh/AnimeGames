@@ -1,0 +1,164 @@
+[
+  {
+    "name": "The Crawler",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\the_crawler.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Koichi_Haimawari",
+    "image_source": "File:Koichi Haimawari Hero Costume.png",
+    "ability": {
+      "summary": "Street-level vigilante whose sliding mobility and persistence make him surprisingly effective.",
+      "strengths": [
+        "Mobility",
+        "Persistence",
+        "Improvisation"
+      ],
+      "weaknesses": [
+        "Lower raw power"
+      ]
+    }
+  },
+  {
+    "name": "Pop Step",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\pop_step.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kazuho_Haneyama",
+    "image_source": "File:Kazuho Haneyama Vigilante Costume (Anime).png",
+    "ability": {
+      "summary": "Vigilante performer with leap-based mobility and strong distraction value.",
+      "strengths": [
+        "Mobility",
+        "Distraction",
+        "Agility"
+      ],
+      "weaknesses": [
+        "Low durability"
+      ]
+    }
+  },
+  {
+    "name": "Knuckleduster",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\knuckleduster.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Iwao_Oguro",
+    "image_source": "File:Iwao Oguro Vigilante Costume (Anime).png",
+    "ability": {
+      "summary": "Quirkless vigilante who relies on experience, brutality, and street-fighting tactics.",
+      "strengths": [
+        "Experience",
+        "Close combat",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "No quirk"
+      ]
+    }
+  },
+  {
+    "name": "Melissa Shield",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\melissa_shield.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Melissa_Shield",
+    "image_source": "File:Melissa Shield dress profile.png",
+    "ability": {
+      "summary": "Quirkless support genius whose inventions and analysis help heroes fight smarter.",
+      "strengths": [
+        "Engineering",
+        "Support gear",
+        "Analysis"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "David Shield",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\david_shield.png",
+    "source": "https://myheroacademia.fandom.com/wiki/David_Shield",
+    "image_source": "File:David Shield Profile.png",
+    "ability": {
+      "summary": "Quirk researcher and inventor whose value is equipment, science, and hero support.",
+      "strengths": [
+        "Invention",
+        "Research",
+        "Support"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "Wolfram",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\wolfram.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Wolfram",
+    "image_source": "File:Wolfram Profile.png",
+    "ability": {
+      "summary": "Metal-manipulating movie villain with strong armored pressure and battlefield control.",
+      "strengths": [
+        "Metal control",
+        "Armor",
+        "Strength"
+      ],
+      "weaknesses": [
+        "Movie-only context"
+      ]
+    }
+  },
+  {
+    "name": "Nine",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\nine.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nine",
+    "image_source": "File:Nine Full Body Profile.png",
+    "ability": {
+      "summary": "Experimental villain with multiple quirks, weather control, and high-end destructive output.",
+      "strengths": [
+        "Multiple quirks",
+        "Weather",
+        "Power"
+      ],
+      "weaknesses": [
+        "Body limits"
+      ]
+    }
+  },
+  {
+    "name": "Flect Turn",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\flect_turn.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Flect_Turn",
+    "image_source": "File:Flect Turn Hooded Full Body Profile.png",
+    "ability": {
+      "summary": "Reflect quirk villain whose body rebounds attacks and punishes direct offense.",
+      "strengths": [
+        "Reflection",
+        "Defense",
+        "Leadership"
+      ],
+      "weaknesses": [
+        "Quirk condition limits"
+      ]
+    }
+  },
+  {
+    "name": "Rody Soul",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\rody_soul.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Rody_Soul",
+    "image_source": "File:Rody Soul Full Body Profile.png",
+    "ability": {
+      "summary": "Agile courier whose soul-bird companion reveals emotions and helps evasive movement.",
+      "strengths": [
+        "Agility",
+        "Pino",
+        "Support"
+      ],
+      "weaknesses": [
+        "Low combat power"
+      ]
+    }
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Tanjiro Kamado",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\tanjiro_kamado.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado",
+    "image_source": "File:Infinity Castle Tanjiro Full Body (Anime).png",
+    "description": "DEMON SLAYER"
+  },
+  {
+    "name": "Nezuko Kamado",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\nezuko_kamado.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Nezuko_Kamado",
+    "image_source": "File:Nezuko colored body.png",
+    "description": "DEMON ALLY"
+  },
+  {
+    "name": "Zenitsu Agatsuma",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\zenitsu_agatsuma.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Zenitsu_Agatsuma",
+    "image_source": "File:Zenitsu colored body 3.png",
+    "description": "DEMON SLAYER"
+  },
+  {
+    "name": "Inosuke Hashibira",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\inosuke_hashibira.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Inosuke_Hashibira",
+    "image_source": "File:Inosuke colored body (unmasked) 2.png",
+    "description": "DEMON SLAYER"
+  },
+  {
+    "name": "Kanao Tsuyuri",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kanao_tsuyuri.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kanao_Tsuyuri",
+    "image_source": "File:Kanao colored body.png",
+    "description": "TSUGUKO"
+  },
+  {
+    "name": "Genya Shinazugawa",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\genya_shinazugawa.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Genya_Shinazugawa",
+    "image_source": "File:Genya Shinazugawa Full Body (Anime).png",
+    "description": "DEMON SLAYER"
+  },
+  {
+    "name": "Giyu Tomioka",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\giyu_tomioka.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Giyu_Tomioka",
+    "image_source": "File:Giyu colored body.png",
+    "description": "WATER HASHIRA"
+  },
+  {
+    "name": "Shinobu Kocho",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\shinobu_kocho.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Shinobu_Kocho",
+    "image_source": "File:Shinobu colored body.png",
+    "description": "INSECT HASHIRA"
+  },
+  {
+    "name": "Kyojuro Rengoku",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kyojuro_rengoku.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kyojuro_Rengoku",
+    "image_source": "File:Kyojuro colored body.png",
+    "description": "FLAME HASHIRA"
+  },
+  {
+    "name": "Tengen Uzui",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\tengen_uzui.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Tengen_Uzui",
+    "image_source": "File:Tengen colored body.png",
+    "description": "SOUND HASHIRA"
+  },
+  {
+    "name": "Muichiro Tokito",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\muichiro_tokito.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Muichiro_Tokito",
+    "image_source": "File:Muichiro Tokito Full Body (Anime).png",
+    "description": "MIST HASHIRA"
+  },
+  {
+    "name": "Mitsuri Kanroji",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\mitsuri_kanroji.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Mitsuri_Kanroji",
+    "image_source": "File:Mitsuri colored body.png",
+    "description": "LOVE HASHIRA"
+  },
+  {
+    "name": "Obanai Iguro",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\obanai_iguro.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Obanai_Iguro",
+    "image_source": "File:Obanai colored body.png",
+    "description": "SERPENT HASHIRA"
+  },
+  {
+    "name": "Sanemi Shinazugawa",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\sanemi_shinazugawa.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Sanemi_Shinazugawa",
+    "image_source": "File:Sanemi Shinazugawa Full Body (Anime).png",
+    "description": "WIND HASHIRA"
+  },
+  {
+    "name": "Gyomei Himejima",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\gyomei_himejima.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyomei_Himejima",
+    "image_source": "File:Gyomei colored body.png",
+    "description": "STONE HASHIRA"
+  },
+  {
+    "name": "Sakonji Urokodaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\sakonji_urokodaki.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Sakonji_Urokodaki",
+    "image_source": "File:Sakonji colored profile.png",
+    "description": "FORMER HASHIRA"
+  },
+  {
+    "name": "Kagaya Ubuyashiki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kagaya_ubuyashiki.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kagaya_Ubuyashiki",
+    "image_source": "File:Kagaya colored body.png",
+    "description": "CORPS LEADER"
+  },
+  {
+    "name": "Aoi Kanzaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\aoi_kanzaki.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Aoi_Kanzaki",
+    "image_source": "File:Aoi body.png",
+    "description": "BUTTERFLY MANSION"
+  },
+  {
+    "name": "Murata",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\murata.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Murata",
+    "image_source": "File:Murata IC anime render.png",
+    "description": "DEMON SLAYER"
+  },
+  {
+    "name": "Sabito",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\sabito.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Sabito",
+    "image_source": "File:Sabito Anime Profile.png",
+    "description": "UROKODAKI STUDENT"
+  },
+  {
+    "name": "Makomo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\makomo.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Makomo",
+    "image_source": "File:Makomo body.png",
+    "description": "UROKODAKI STUDENT"
+  },
+  {
+    "name": "Hotaru Haganezuka",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\hotaru_haganezuka.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Hotaru_Haganezuka",
+    "image_source": "File:Hotaru profile (unmasked).png",
+    "description": "SWORDSMITH"
+  },
+  {
+    "name": "Yoriichi Tsugikuni",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\yoriichi_tsugikuni.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Yoriichi_Tsugikuni",
+    "image_source": "File:Yoriichi colored body 2.png",
+    "description": "LEGENDARY SLAYER"
+  },
+  {
+    "name": "Tamayo",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\tamayo.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Tamayo",
+    "image_source": "File:Tamayo colored body.png",
+    "description": "DEMON DOCTOR"
+  },
+  {
+    "name": "Yushiro",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\yushiro.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Yushiro",
+    "image_source": "File:Yushiro colored body.png",
+    "description": "DEMON ALLY"
+  },
+  {
+    "name": "Muzan Kibutsuji",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\muzan_kibutsuji.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Muzan_Kibutsuji",
+    "image_source": "File:Muzan Kibutsuji Full Body (Anime).png",
+    "description": "DEMON KING"
+  },
+  {
+    "name": "Hand Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\hand_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Hand_Demon",
+    "image_source": "File:Hand Demon body.png",
+    "description": "FINAL SELECTION DEMON"
+  },
+  {
+    "name": "Swamp Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\swamp_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Swamp_Demon",
+    "image_source": "File:Swamp Demon profile (three-horned).png",
+    "description": "KIDNAPPER DEMON"
+  },
+  {
+    "name": "Temple Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\temple_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Temple_Demon",
+    "image_source": "File:Temple Demon anime.png",
+    "description": "EARLY DEMON"
+  },
+  {
+    "name": "Mother Spider Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\mother_spider_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Spider_Demon_%28Mother%29",
+    "image_source": "File:Mother Spider Demon body.png",
+    "description": "SPIDER FAMILY"
+  },
+  {
+    "name": "Father Spider Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\father_spider_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Spider_Demon_%28Father%29",
+    "image_source": "File:Father Spider Demon anime.png",
+    "description": "SPIDER FAMILY"
+  },
+  {
+    "name": "Older Brother Spider Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\older_brother_spider_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Older_Brother_Spider_Demon",
+    "image_source": "File:Son Spider Demon body.png",
+    "description": "SPIDER FAMILY"
+  },
+  {
+    "name": "Daughter Spider Demon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\daughter_spider_demon.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Spider_Demon_%28Daughter%29",
+    "image_source": "File:Daughter Spider Demon body.png",
+    "description": "SPIDER FAMILY"
+  },
+  {
+    "name": "Kokushibo",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kokushibo.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kokushibo",
+    "image_source": "File:Kokushibo colored body.png",
+    "description": "UPPER ONE"
+  },
+  {
+    "name": "Doma",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\doma.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Doma",
+    "image_source": "File:Doma colored body.png",
+    "description": "UPPER TWO"
+  },
+  {
+    "name": "Akaza",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\akaza.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Akaza",
+    "image_source": "File:Akaza colored body.png",
+    "description": "UPPER THREE"
+  },
+  {
+    "name": "Hantengu",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\hantengu.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Hantengu",
+    "image_source": "File:Hantengu Full Body Anime.png",
+    "description": "UPPER FOUR"
+  },
+  {
+    "name": "Sekido",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\sekido.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Sekido",
+    "image_source": "File:Sekido Anime Profile.png",
+    "description": "HANTENGU FORM"
+  },
+  {
+    "name": "Karaku",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\karaku.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Karaku",
+    "image_source": "File:Karaku Full Body Anime.png",
+    "description": "HANTENGU FORM"
+  },
+  {
+    "name": "Aizetsu",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\aizetsu.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Aizetsu",
+    "image_source": "File:Aizetsu Full Body Anime.png",
+    "description": "HANTENGU FORM"
+  },
+  {
+    "name": "Urogi",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\urogi.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Urogi",
+    "image_source": "File:Urogi Anime Profile.png",
+    "description": "HANTENGU FORM"
+  },
+  {
+    "name": "Zohakuten",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\zohakuten.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Zohakuten",
+    "image_source": "File:Zohakuten Anime Profile.png",
+    "description": "HATRED FORM"
+  },
+  {
+    "name": "Urami",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\urami.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Urami",
+    "image_source": "File:Urami (Anime).png",
+    "description": "RESENTMENT FORM"
+  },
+  {
+    "name": "Gyokko",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\gyokko.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyokko",
+    "image_source": "File:Gyokko body (true form).png",
+    "description": "UPPER FIVE"
+  },
+  {
+    "name": "Gyutaro",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\gyutaro.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Gyutaro",
+    "image_source": "File:Gyutaro body.png",
+    "description": "UPPER SIX"
+  },
+  {
+    "name": "Daki",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\daki.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Daki",
+    "image_source": "File:Daki throwing a tantrum (Anime).png",
+    "description": "UPPER SIX"
+  },
+  {
+    "name": "Enmu",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\enmu.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Enmu",
+    "image_source": "File:Enmu anime.png",
+    "description": "LOWER ONE"
+  },
+  {
+    "name": "Rui",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\rui.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Rui",
+    "image_source": "File:Rui body.png",
+    "description": "LOWER FIVE"
+  },
+  {
+    "name": "Nakime",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\nakime.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Nakime",
+    "image_source": "File:Upper 4 Nakime (Anime).png",
+    "description": "BIWA DEMON"
+  },
+  {
+    "name": "Kaigaku",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kaigaku.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kaigaku",
+    "image_source": "File:Kaigaku colored body.png",
+    "description": "UPPER SIX"
+  },
+  {
+    "name": "Susamaru",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\susamaru.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Susamaru",
+    "image_source": "File:Susamaru anime.png",
+    "description": "TEMARI DEMON"
+  },
+  {
+    "name": "Yahaba",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\yahaba.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Yahaba",
+    "image_source": "File:Yahaba colored profile.png",
+    "description": "ARROW DEMON"
+  },
+  {
+    "name": "Kyogai",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\kyogai.png",
+    "source": "https://kimetsu-no-yaiba.fandom.com/wiki/Kyogai",
+    "image_source": "File:Kyogai body.png",
+    "description": "DRUM DEMON"
+  },
+  {
+    "name": "Tanjiro Demon Form",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\DS\\tanjiro_demon_form.png",
+    "source": "User-provided image",
+    "image_source": "User-provided Demon King Tanjiro image",
+    "description": "DEMON KING"
+  }
+]

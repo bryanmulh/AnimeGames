@@ -1,0 +1,1946 @@
+[
+  {
+    "name": "Izuku Midoriya",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\izuku_midoriya.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Izuku_Midoriya",
+    "image_source": "File:Izuku Midoriya First Hero Costume Full Body Anime.png",
+    "ability": {
+      "summary": "One For All successor with explosive mobility, layered inherited quirks, and relentless problem-solving.",
+      "strengths": [
+        "One For All",
+        "Mobility",
+        "Battle IQ"
+      ],
+      "weaknesses": [
+        "Self-damage risk"
+      ]
+    }
+  },
+  {
+    "name": "Katsuki Bakugo",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\katsuki_bakugo.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Katsuki_Bakugo",
+    "image_source": "File:Katsuki Bakugo Hero Costume Full Body.png",
+    "ability": {
+      "summary": "Explosion-powered prodigy who mixes speed, blasts, and aggression into elite offensive pressure.",
+      "strengths": [
+        "Explosions",
+        "Speed",
+        "Combat instinct"
+      ],
+      "weaknesses": [
+        "Temper",
+        "Collateral risk"
+      ]
+    }
+  },
+  {
+    "name": "Ochaco Uraraka",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\ochaco_uraraka.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ochaco_Uraraka",
+    "image_source": "File:Ochaco Uraraka Action 5.png",
+    "ability": {
+      "summary": "Zero Gravity user who can disrupt positioning, rescue allies, and create clever battlefield swings.",
+      "strengths": [
+        "Zero Gravity",
+        "Rescue utility",
+        "Mobility"
+      ],
+      "weaknesses": [
+        "Needs contact",
+        "Motion sickness limits"
+      ]
+    }
+  },
+  {
+    "name": "Tenya Ida",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tenya_ida.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tenya_Ida",
+    "image_source": "File:Tenya Ida Anime Hero Costume.png",
+    "ability": {
+      "summary": "Engine-legged speedster who excels at straight-line bursts, rescue movement, and disciplined teamwork.",
+      "strengths": [
+        "Speed",
+        "Team discipline",
+        "Recipro burst"
+      ],
+      "weaknesses": [
+        "Turn control",
+        "Predictable lanes"
+      ]
+    }
+  },
+  {
+    "name": "Shoto Todoroki",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\shoto_todoroki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shoto_Todoroki",
+    "image_source": "File:Shoto Todoroki Hero Costume (WHM).png",
+    "ability": {
+      "summary": "Half-Cold Half-Hot fighter with enormous area control, range, and defensive coverage.",
+      "strengths": [
+        "Ice control",
+        "Firepower",
+        "Range"
+      ],
+      "weaknesses": [
+        "Emotional hesitation",
+        "Large-scale collateral"
+      ]
+    }
+  },
+  {
+    "name": "Tsuyu Asui",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tsuyu_asui.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tsuyu_Asui",
+    "image_source": "File:Tsuyu Asui Anime Hero Costume.png",
+    "ability": {
+      "summary": "Frog-like mobility specialist with tongue reach, stealth, wall movement, and steady support instincts.",
+      "strengths": [
+        "Mobility",
+        "Rescue",
+        "Stealth"
+      ],
+      "weaknesses": [
+        "Cold weather weakness"
+      ]
+    }
+  },
+  {
+    "name": "Eijiro Kirishima",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\eijiro_kirishima.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Eijiro_Kirishima",
+    "image_source": "File:Eijiro Kirishima Hero Costume Profile.png",
+    "ability": {
+      "summary": "Hardening bruiser who anchors the frontline with durability, grit, and protective pressure.",
+      "strengths": [
+        "Durability",
+        "Frontline defense",
+        "Grit"
+      ],
+      "weaknesses": [
+        "Limited range"
+      ]
+    }
+  },
+  {
+    "name": "Denki Kaminari",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\denki_kaminari.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Denki_Kaminari",
+    "image_source": "File:Denki Kaminari 1st Hero Costume 2.png",
+    "ability": {
+      "summary": "Electricity user who can stun groups and empower teams but risks shorting out after heavy output.",
+      "strengths": [
+        "Electric bursts",
+        "Crowd control",
+        "Area pressure"
+      ],
+      "weaknesses": [
+        "Overuse drawback"
+      ]
+    }
+  },
+  {
+    "name": "Kyoka Jiro",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\kyoka_jiro.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kyoka_Jiro",
+    "image_source": "File:Kyoka Jiro Full Body Hero Costume.png",
+    "ability": {
+      "summary": "Sound-based scout and ranged attacker whose earphone jacks support detection, disruption, and team intel.",
+      "strengths": [
+        "Sound detection",
+        "Ranged pulses",
+        "Team intel"
+      ],
+      "weaknesses": [
+        "Moderate durability"
+      ]
+    }
+  },
+  {
+    "name": "Momo Yaoyorozu",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\momo_yaoyorozu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Momo_Yaoyorozu",
+    "image_source": "File:Momo Yaoyorozu Winter Costume (Anime).png",
+    "ability": {
+      "summary": "Creation user whose value scales with planning, knowledge, and access to time for support items.",
+      "strengths": [
+        "Creation",
+        "Planning",
+        "Versatility"
+      ],
+      "weaknesses": [
+        "Needs time and materials knowledge"
+      ]
+    }
+  },
+  {
+    "name": "Fumikage Tokoyami",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\fumikage_tokoyami.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Fumikage_Tokoyami",
+    "image_source": "File:Fumikage Tokoyami Action 4.png",
+    "ability": {
+      "summary": "Dark Shadow user who offers strong offense and defense, especially when darkness boosts his partner entity.",
+      "strengths": [
+        "Dark Shadow",
+        "Defense",
+        "Pressure"
+      ],
+      "weaknesses": [
+        "Bright light weakness"
+      ]
+    }
+  },
+  {
+    "name": "Mina Ashido",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mina_ashido.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mina_Ashido",
+    "image_source": "File:Mina Ashido Anime Hero Costume 2.png",
+    "ability": {
+      "summary": "Acid user with slippery movement, melting attacks, and flexible mid-range disruption.",
+      "strengths": [
+        "Acid",
+        "Mobility",
+        "Area denial"
+      ],
+      "weaknesses": [
+        "Control and precision demands"
+      ]
+    }
+  },
+  {
+    "name": "Hanta Sero",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\hanta_sero.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Hanta_Sero",
+    "image_source": "File:Hanta Sero Action 3.png",
+    "ability": {
+      "summary": "Tape user who swings, restrains, and creates positioning plays with clean team utility.",
+      "strengths": [
+        "Restraint",
+        "Mobility",
+        "Setup"
+      ],
+      "weaknesses": [
+        "Moderate raw power"
+      ]
+    }
+  },
+  {
+    "name": "Mashirao Ojiro",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mashirao_ojiro.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mashirao_Ojiro",
+    "image_source": "File:Mashirao Ojiro Full Body Costume.png",
+    "ability": {
+      "summary": "Martial artist with a strong tail who relies on fundamentals, close combat, and clean technique.",
+      "strengths": [
+        "Martial arts",
+        "Balance",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Limited quirk variety"
+      ]
+    }
+  },
+  {
+    "name": "Mezo Shoji",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mezo_shoji.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mezo_Shoji",
+    "image_source": "File:Mezo Shoji Full Body Uniform.png",
+    "ability": {
+      "summary": "Multi-arm scout and protector with strong senses, reach, and defensive rescue utility.",
+      "strengths": [
+        "Sensing",
+        "Reach",
+        "Protection"
+      ],
+      "weaknesses": [
+        "Limited burst offense"
+      ]
+    }
+  },
+  {
+    "name": "Koji Koda",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\koji_koda.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Koji_Koda",
+    "image_source": "File:Koji Koda Full Body Costume.png",
+    "ability": {
+      "summary": "Animal-command user who provides scouting and swarm support when animals are available.",
+      "strengths": [
+        "Animal control",
+        "Scouting",
+        "Support"
+      ],
+      "weaknesses": [
+        "Environment dependent"
+      ]
+    }
+  },
+  {
+    "name": "Rikido Sato",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\rikido_sato.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Rikido_Sato",
+    "image_source": "File:Prototype Rikido Sato Hero Costume Design.png",
+    "ability": {
+      "summary": "Sugar-powered bruiser who trades sugar intake for temporary strength boosts.",
+      "strengths": [
+        "Strength boost",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Time limit",
+        "Mental fatigue"
+      ]
+    }
+  },
+  {
+    "name": "Yuga Aoyama",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\yuga_aoyama.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Yuga_Aoyama",
+    "image_source": "File:Yuga Hero Costume Profile (10th Anniversary).png",
+    "ability": {
+      "summary": "Naval laser user with precise beam attacks but a body that struggles with sustained output.",
+      "strengths": [
+        "Laser range",
+        "Precision",
+        "Surprise attacks"
+      ],
+      "weaknesses": [
+        "Stomach limit"
+      ]
+    }
+  },
+  {
+    "name": "Toru Hagakure",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\toru_hagakure.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Toru_Hagakure",
+    "image_source": "File:Toru Hagakure Full Body Hero Costume.png",
+    "ability": {
+      "summary": "Invisible hero student who supports stealth, misdirection, and light-refraction tricks.",
+      "strengths": [
+        "Invisibility",
+        "Stealth",
+        "Misdirection"
+      ],
+      "weaknesses": [
+        "Low direct offense"
+      ]
+    }
+  },
+  {
+    "name": "Minoru Mineta",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\minoru_mineta.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Minoru_Mineta",
+    "image_source": "File:Minoru Mineta Full Body Hero Costume Anime.png",
+    "ability": {
+      "summary": "Sticky-ball trap user whose quirk is annoying but useful for restraining and slowing enemies.",
+      "strengths": [
+        "Traps",
+        "Restraint",
+        "Area denial"
+      ],
+      "weaknesses": [
+        "Low combat stats"
+      ]
+    }
+  },
+  {
+    "name": "All Might",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\all_might.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Toshinori_Yagi",
+    "image_source": "File:Toshinori Yagi Hero Costume (Vigilantes Anime).png",
+    "ability": {
+      "summary": "Former Symbol of Peace with overwhelming strength, speed, durability, and heroic presence.",
+      "strengths": [
+        "Power",
+        "Speed",
+        "Inspiration"
+      ],
+      "weaknesses": [
+        "Time limit or injury constraints"
+      ]
+    }
+  },
+  {
+    "name": "Endeavor",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\endeavor.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Enji_Todoroki",
+    "image_source": "File:Enji Todoroki Second Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Top firepower hero whose Hellflame gives massive ranged offense, flight-like movement, and pressure.",
+      "strengths": [
+        "Firepower",
+        "Range",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Heat management"
+      ]
+    }
+  },
+  {
+    "name": "Hawks",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\hawks.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Keigo_Takami",
+    "image_source": "File:Post-War Keigo Takami Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Winged speed hero who excels at rescue, tracking, precision feather control, and rapid engagements.",
+      "strengths": [
+        "Speed",
+        "Recon",
+        "Rescue"
+      ],
+      "weaknesses": [
+        "Wing damage vulnerability"
+      ]
+    }
+  },
+  {
+    "name": "Best Jeanist",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\best_jeanist.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tsunagu_Hakamada",
+    "image_source": "File:Tsunagu Hakamada Third Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Fiber-control expert who can restrain enemies and stabilize battlefields with precise technique.",
+      "strengths": [
+        "Restraint",
+        "Precision",
+        "Control"
+      ],
+      "weaknesses": [
+        "Material dependent"
+      ]
+    }
+  },
+  {
+    "name": "Mirko",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mirko.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Rumi_Usagiyama",
+    "image_source": "File:Rumi Usagiyama Hero Costume Full (Anime).png",
+    "ability": {
+      "summary": "Rabbit-powered melee hero with ferocious speed, kicks, and pain tolerance.",
+      "strengths": [
+        "Speed",
+        "Close combat",
+        "Tenacity"
+      ],
+      "weaknesses": [
+        "Limited range"
+      ]
+    }
+  },
+  {
+    "name": "Eraser Head",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\eraser_head.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shota_Aizawa",
+    "image_source": "File:Shota Aizawa Hero Costume (Vigilantes Anime).png",
+    "ability": {
+      "summary": "Erasure hero who can shut down quirks on sight and turn fights into skill contests.",
+      "strengths": [
+        "Quirk erasure",
+        "Capture weapon",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Line-of-sight limit"
+      ]
+    }
+  },
+  {
+    "name": "Present Mic",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\present_mic.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Hizashi_Yamada",
+    "image_source": "File:Hizashi Yamada Hero Costume (Vigilantes Anime).png",
+    "ability": {
+      "summary": "Voice hero whose sonic blasts provide wide-area disruption and loud crowd-control pressure.",
+      "strengths": [
+        "Sound blasts",
+        "Area disruption"
+      ],
+      "weaknesses": [
+        "Collateral risk"
+      ]
+    }
+  },
+  {
+    "name": "Midnight",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\midnight.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nemuri_Kayama",
+    "image_source": "File:Nemuri Kamaya Hero Costume (Vigilantes Anime).png",
+    "ability": {
+      "summary": "Sleep-inducing hero who uses aroma-based crowd control and close-range tools.",
+      "strengths": [
+        "Sleep gas",
+        "Crowd control"
+      ],
+      "weaknesses": [
+        "Airflow and range limits"
+      ]
+    }
+  },
+  {
+    "name": "Gran Torino",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\gran_torino.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Sorahiko_Torino",
+    "image_source": "File:Sorahiko Torino Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Veteran jet-speed mentor who fights with high mobility and sharp combat experience.",
+      "strengths": [
+        "Speed",
+        "Experience",
+        "Mentorship"
+      ],
+      "weaknesses": [
+        "Age and durability limits"
+      ]
+    }
+  },
+  {
+    "name": "Sir Nighteye",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\sir_nighteye.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mirai_Sasaki",
+    "image_source": "File:Sir Nighteye Anime.png",
+    "ability": {
+      "summary": "Foresight user whose prediction and martial skill make him a dangerous tactical fighter.",
+      "strengths": [
+        "Foresight",
+        "Prediction",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Activation limits"
+      ]
+    }
+  },
+  {
+    "name": "Fat Gum",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\fat_gum.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Taishiro_Toyomitsu",
+    "image_source": "File:Taishiro Toyomitsu Anime Action.png",
+    "ability": {
+      "summary": "Absorption hero who tanks damage, protects allies, and converts stored impact into power.",
+      "strengths": [
+        "Absorption",
+        "Defense",
+        "Counterattack"
+      ],
+      "weaknesses": [
+        "Can be depleted"
+      ]
+    }
+  },
+  {
+    "name": "Mt. Lady",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mt_lady.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Yu_Takeyama",
+    "image_source": "File:Yu Takeyama Anime Action.png",
+    "ability": {
+      "summary": "Size-changing hero who brings giant-scale strength and public battlefield presence.",
+      "strengths": [
+        "Gigantification",
+        "Strength",
+        "Rescue scale"
+      ],
+      "weaknesses": [
+        "Space constraints"
+      ]
+    }
+  },
+  {
+    "name": "Kamui Woods",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\kamui_woods.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shinji_Nishiya",
+    "image_source": "File:Shinji Nishiya Second Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Wooden limb hero who restrains villains and supports rescue with long-range branches.",
+      "strengths": [
+        "Binding",
+        "Range",
+        "Rescue"
+      ],
+      "weaknesses": [
+        "Fire vulnerability"
+      ]
+    }
+  },
+  {
+    "name": "Ryukyu",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\ryukyu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ryuko_Tatsuma",
+    "image_source": "File:Ryuko Tatsuma Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Dragon hero with flight, strength, durability, and strong team-leader presence.",
+      "strengths": [
+        "Dragon form",
+        "Flight",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Large target"
+      ]
+    }
+  },
+  {
+    "name": "Gang Orca",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\gang_orca.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kugo_Sakamata",
+    "image_source": "File:Kugo Sakamata Temporary Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Orca-themed hero with sonic attacks, strength, and strong aquatic-style pressure.",
+      "strengths": [
+        "Sonic waves",
+        "Strength",
+        "Intimidation"
+      ],
+      "weaknesses": [
+        "Dryness or environment concerns"
+      ]
+    }
+  },
+  {
+    "name": "Edgeshot",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\edgeshot.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shinya_Kamihara",
+    "image_source": "File:Shinya Kamihara S7 Visual.png",
+    "ability": {
+      "summary": "Ninja-like hero who flattens his body into threads for infiltration, speed, and precision attacks.",
+      "strengths": [
+        "Speed",
+        "Infiltration",
+        "Precision"
+      ],
+      "weaknesses": [
+        "Technique strain"
+      ]
+    }
+  },
+  {
+    "name": "Mirio Togata",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mirio_togata.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mirio_Togata",
+    "image_source": "File:Mirio Togata Hero Costume Anime Action.png",
+    "ability": {
+      "summary": "Permeation user whose timing, prediction, and melee skill make him extremely hard to hit.",
+      "strengths": [
+        "Permeation",
+        "Timing",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Requires intense precision"
+      ]
+    }
+  },
+  {
+    "name": "Nejire Hado",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\nejire_hado.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nejire_Hado",
+    "image_source": "File:Nejire Hado Hero Costume Anime Action.png",
+    "ability": {
+      "summary": "Wave Motion user with flight-like mobility, stamina, and spiraling energy blasts.",
+      "strengths": [
+        "Energy waves",
+        "Mobility",
+        "Stamina"
+      ],
+      "weaknesses": [
+        "Output can be telegraphed"
+      ]
+    }
+  },
+  {
+    "name": "Tamaki Amajiki",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tamaki_amajiki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tamaki_Amajiki",
+    "image_source": "File:Tamaki Amajiki Action 2.png",
+    "ability": {
+      "summary": "Manifest user who converts eaten food into versatile animal traits for offense and defense.",
+      "strengths": [
+        "Versatility",
+        "Manifest",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Confidence issues"
+      ]
+    }
+  },
+  {
+    "name": "Hitoshi Shinso",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\hitoshi_shinso.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Hitoshi_Shinso",
+    "image_source": "File:Hitoshi Shinso's Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Brainwashing user who can swing fights instantly if opponents answer him.",
+      "strengths": [
+        "Brainwashing",
+        "Capture weapon",
+        "Ambush"
+      ],
+      "weaknesses": [
+        "Needs verbal response"
+      ]
+    }
+  },
+  {
+    "name": "Mei Hatsume",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mei_hatsume.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mei_Hatsume",
+    "image_source": "File:Mei Hatsume Anime Profile.png",
+    "ability": {
+      "summary": "Support-course inventor whose gadgets and analysis can empower allies more than direct fighting.",
+      "strengths": [
+        "Gadgets",
+        "Engineering",
+        "Support gear"
+      ],
+      "weaknesses": [
+        "Low direct combat"
+      ]
+    }
+  },
+  {
+    "name": "Recovery Girl",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\recovery_girl.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Chiyo_Shuzenji",
+    "image_source": "File:Chiyo Shuzenji Work Uniform (Anime).png",
+    "ability": {
+      "summary": "Healing specialist whose quirk accelerates recovery at the cost of the patient's stamina.",
+      "strengths": [
+        "Healing",
+        "Medical support"
+      ],
+      "weaknesses": [
+        "Not a combatant"
+      ]
+    }
+  },
+  {
+    "name": "Principal Nezu",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\principal_nezu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nezu",
+    "image_source": "File:Nezu Principle Uniform (Anime).png",
+    "ability": {
+      "summary": "Hyper-intelligent principal whose real strength is planning, leadership, and trap design.",
+      "strengths": [
+        "Intelligence",
+        "Strategy",
+        "Leadership"
+      ],
+      "weaknesses": [
+        "Low direct combat"
+      ]
+    }
+  },
+  {
+    "name": "Eri",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\eri.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Eri",
+    "image_source": "File:Eri Anime Fullbody.png",
+    "ability": {
+      "summary": "Rewind quirk user with enormous potential but limited control and noncombat role.",
+      "strengths": [
+        "Rewind",
+        "Healing potential"
+      ],
+      "weaknesses": [
+        "Control limits",
+        "Needs protection"
+      ]
+    }
+  },
+  {
+    "name": "Inko Midoriya",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\inko_midoriya.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Inko_Midoriya",
+    "image_source": "File:Inko Midoriya Anime Profile.png",
+    "ability": {
+      "summary": "Izuku's mom with a small attraction quirk and overwhelming emotional support value.",
+      "strengths": [
+        "Tiny object pull",
+        "Morale support"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "Neito Monoma",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\neito_monoma.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Neito_Monoma",
+    "image_source": "File:Neito Monoma Hero Costume Action.png",
+    "ability": {
+      "summary": "Copy user who can borrow others' quirks for tricky counterplay and team tactics.",
+      "strengths": [
+        "Copy",
+        "Mind games",
+        "Team utility"
+      ],
+      "weaknesses": [
+        "Borrowed quirks are temporary"
+      ]
+    }
+  },
+  {
+    "name": "Itsuka Kendo",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\itsuka_kendo.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Itsuka_Kendo",
+    "image_source": "File:Itsuka Kendo Anime Hero Costume.png",
+    "ability": {
+      "summary": "Class 1-B leader whose enlarged hands give strong close combat and rescue utility.",
+      "strengths": [
+        "Big Fist",
+        "Leadership",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Limited range"
+      ]
+    }
+  },
+  {
+    "name": "Tetsutetsu Tetsutetsu",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tetsutetsu_tetsutetsu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tetsutetsu_Tetsutetsu",
+    "image_source": "File:Tetsutetsu Tetsutetsu Anime Hero Costume.png",
+    "ability": {
+      "summary": "Steel-hardening brawler who mirrors Kirishima-style frontline durability.",
+      "strengths": [
+        "Steel body",
+        "Durability",
+        "Grit"
+      ],
+      "weaknesses": [
+        "Limited range"
+      ]
+    }
+  },
+  {
+    "name": "Ibara Shiozaki",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\ibara_shiozaki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ibara_Shiozaki",
+    "image_source": "File:Ibara Shiozaki Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Vine-haired student who restrains enemies and controls space from mid-range.",
+      "strengths": [
+        "Vine control",
+        "Restraint",
+        "Range"
+      ],
+      "weaknesses": [
+        "Fire or cutting risks"
+      ]
+    }
+  },
+  {
+    "name": "Juzo Honenuki",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\juzo_honenuki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Juzo_Honenuki",
+    "image_source": "File:Juzo Honenuki Hero Costume Anime.png",
+    "ability": {
+      "summary": "Softening user who turns terrain into traps and controls movement.",
+      "strengths": [
+        "Terrain control",
+        "Mobility disruption",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Lower direct offense"
+      ]
+    }
+  },
+  {
+    "name": "Setsuna Tokage",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\setsuna_tokage.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Setsuna_Tokage",
+    "image_source": "File:Setsuna Tokage Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Lizard Tail Splitter user who separates body parts for scouting, evasion, and harassment.",
+      "strengths": [
+        "Evasion",
+        "Scouting",
+        "Harassment"
+      ],
+      "weaknesses": [
+        "Separated parts can be targeted"
+      ]
+    }
+  },
+  {
+    "name": "Pony Tsunotori",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\pony_tsunotori.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Pony_Tsunotori",
+    "image_source": "File:Pony Tsunotori Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Horn Cannon user who flies and controls horns for rescue or ranged pressure.",
+      "strengths": [
+        "Flight",
+        "Horn control",
+        "Rescue"
+      ],
+      "weaknesses": [
+        "Limited raw power"
+      ]
+    }
+  },
+  {
+    "name": "Cementoss",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\cementoss.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ken_Ishiyama",
+    "image_source": "File:Ken Ishiyama Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Cement-control hero who reshapes urban terrain for defense, walls, and battlefield control.",
+      "strengths": [
+        "Terrain control",
+        "Defense",
+        "Containment"
+      ],
+      "weaknesses": [
+        "Environment dependent"
+      ]
+    }
+  },
+  {
+    "name": "Snipe",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\snipe.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Snipe",
+    "image_source": "File:Snipe Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Gun hero with homing accuracy and strong ranged pressure.",
+      "strengths": [
+        "Marksmanship",
+        "Range",
+        "Tracking"
+      ],
+      "weaknesses": [
+        "Lower close-range presence"
+      ]
+    }
+  },
+  {
+    "name": "Thirteen",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\thirteen.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Anan_Kurose",
+    "image_source": "File:Thirteen Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Rescue hero whose Black Hole quirk is extremely dangerous but carefully restrained.",
+      "strengths": [
+        "Black Hole",
+        "Rescue",
+        "Containment"
+      ],
+      "weaknesses": [
+        "High collateral risk"
+      ]
+    }
+  },
+  {
+    "name": "Vlad King",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\vlad_king.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Sekijiro_Kan",
+    "image_source": "File:Sekijiro Kan Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Blood-control teacher who hardens and manipulates his own blood in combat.",
+      "strengths": [
+        "Blood control",
+        "Teaching",
+        "Restraint"
+      ],
+      "weaknesses": [
+        "Blood resource limits"
+      ]
+    }
+  },
+  {
+    "name": "Hound Dog",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\hound_dog.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ryo_Inui",
+    "image_source": "File:Ryo Inui Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Dog-themed UA staff hero with tracking senses and aggressive close-range presence.",
+      "strengths": [
+        "Tracking",
+        "Senses",
+        "Close pressure"
+      ],
+      "weaknesses": [
+        "Limited shown feats"
+      ]
+    }
+  },
+  {
+    "name": "Power Loader",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\power_loader.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Higari_Maijima",
+    "image_source": "File:Higari Maijima Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Support-course teacher whose excavating gear and engineering make him valuable around equipment.",
+      "strengths": [
+        "Engineering",
+        "Excavation gear",
+        "Support"
+      ],
+      "weaknesses": [
+        "Gear dependent"
+      ]
+    }
+  },
+  {
+    "name": "Lunch Rush",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\lunch_rush.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Lunch_Rush",
+    "image_source": "File:Lunch Rush Work Uniform (Anime).png",
+    "ability": {
+      "summary": "UA cook whose practical value is morale and nutrition rather than combat.",
+      "strengths": [
+        "Food support",
+        "Morale",
+        "Logistics"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "Mandalay",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mandalay.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shino_Sosaki",
+    "image_source": "File:Shino Sosaki Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Telepathic Wild Pussycat who coordinates teams and rescue operations.",
+      "strengths": [
+        "Telepathy",
+        "Coordination",
+        "Rescue"
+      ],
+      "weaknesses": [
+        "Low direct combat feats"
+      ]
+    }
+  },
+  {
+    "name": "Pixie-Bob",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\pixie_bob.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Ryuko_Tsuchikawa",
+    "image_source": "File:Ryuko Tsuchikawa Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Earth Flow hero who shapes terrain and creates earth beasts for pressure.",
+      "strengths": [
+        "Earth control",
+        "Summons",
+        "Area control"
+      ],
+      "weaknesses": [
+        "Terrain dependent"
+      ]
+    }
+  },
+  {
+    "name": "Tiger",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tiger.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Yawara_Chatora",
+    "image_source": "File:Yawara Chatora Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Wild Pussycat brawler with strong close-range rescue hero presence.",
+      "strengths": [
+        "Close combat",
+        "Rescue",
+        "Strength"
+      ],
+      "weaknesses": [
+        "Limited range"
+      ]
+    }
+  },
+  {
+    "name": "Ragdoll",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\ragdoll.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tomoko_Shiretoko",
+    "image_source": "File:Tomoko Shiretoko Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Search user whose scouting value is excellent even when combat power is limited.",
+      "strengths": [
+        "Search",
+        "Intel",
+        "Tracking"
+      ],
+      "weaknesses": [
+        "Low direct offense"
+      ]
+    }
+  },
+  {
+    "name": "Nana Shimura",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\nana_shimura.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nana_Shimura",
+    "image_source": "File:Nana sees Tomura's transformed body.png",
+    "ability": {
+      "summary": "One For All predecessor remembered for flight, heroism, and high-level legacy power.",
+      "strengths": [
+        "Float",
+        "One For All legacy",
+        "Heroism"
+      ],
+      "weaknesses": [
+        "Limited shown feats"
+      ]
+    }
+  },
+  {
+    "name": "Star and Stripe",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\star_and_stripe.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Cathleen_Bate",
+    "image_source": "File:Star and Stripe Hero Costume (Anime).png",
+    "ability": {
+      "summary": "America's top hero whose New Order can impose reality-bending rules under strict conditions.",
+      "strengths": [
+        "New Order",
+        "Power",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Rule limits"
+      ]
+    }
+  },
+  {
+    "name": "Crust",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\crust.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Crust",
+    "image_source": "File:Crust Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Shield hero who protects allies with durable barriers and heroic sacrifice instincts.",
+      "strengths": [
+        "Shields",
+        "Defense",
+        "Protection"
+      ],
+      "weaknesses": [
+        "Limited offense"
+      ]
+    }
+  },
+  {
+    "name": "Wash",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\wash.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Susugu_Mitarai",
+    "image_source": "File:Wash Hero Costume (Anime).png",
+    "ability": {
+      "summary": "Rescue-focused laundry hero with bubble-like utility and public safety value.",
+      "strengths": [
+        "Rescue",
+        "Bubbles",
+        "Support"
+      ],
+      "weaknesses": [
+        "Low combat detail"
+      ]
+    }
+  },
+  {
+    "name": "The Crawler",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\the_crawler.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Koichi_Haimawari",
+    "image_source": "File:Koichi Haimawari Hero Costume.png",
+    "ability": {
+      "summary": "Street-level vigilante whose sliding mobility and persistence make him surprisingly effective.",
+      "strengths": [
+        "Mobility",
+        "Persistence",
+        "Improvisation"
+      ],
+      "weaknesses": [
+        "Lower raw power"
+      ]
+    }
+  },
+  {
+    "name": "Pop Step",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\pop_step.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kazuho_Haneyama",
+    "image_source": "File:Kazuho Haneyama Vigilante Costume (Anime).png",
+    "ability": {
+      "summary": "Vigilante performer with leap-based mobility and strong distraction value.",
+      "strengths": [
+        "Mobility",
+        "Distraction",
+        "Agility"
+      ],
+      "weaknesses": [
+        "Low durability"
+      ]
+    }
+  },
+  {
+    "name": "Knuckleduster",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\knuckleduster.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Iwao_Oguro",
+    "image_source": "File:Iwao Oguro Vigilante Costume (Anime).png",
+    "ability": {
+      "summary": "Quirkless vigilante who relies on experience, brutality, and street-fighting tactics.",
+      "strengths": [
+        "Experience",
+        "Close combat",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "No quirk"
+      ]
+    }
+  },
+  {
+    "name": "Melissa Shield",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\melissa_shield.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Melissa_Shield",
+    "image_source": "File:Melissa Shield dress profile.png",
+    "ability": {
+      "summary": "Quirkless support genius whose inventions and analysis help heroes fight smarter.",
+      "strengths": [
+        "Engineering",
+        "Support gear",
+        "Analysis"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "David Shield",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\david_shield.png",
+    "source": "https://myheroacademia.fandom.com/wiki/David_Shield",
+    "image_source": "File:David Shield Profile.png",
+    "ability": {
+      "summary": "Quirk researcher and inventor whose value is equipment, science, and hero support.",
+      "strengths": [
+        "Invention",
+        "Research",
+        "Support"
+      ],
+      "weaknesses": [
+        "Not a fighter"
+      ]
+    }
+  },
+  {
+    "name": "Kyudai Garaki",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\kyudai_garaki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kyudai_Garaki",
+    "image_source": "File:Kyudai Garaki (Anime).png",
+    "ability": {
+      "summary": "Villain scientist whose Nomu research and body modifications enable massive strategic threats.",
+      "strengths": [
+        "Nomu creation",
+        "Science",
+        "Planning"
+      ],
+      "weaknesses": [
+        "Low direct combat"
+      ]
+    }
+  },
+  {
+    "name": "High-End Nomu",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\high_end_nomu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Near_High-End_Nomu",
+    "image_source": "File:Near High-Ends appear.png",
+    "ability": {
+      "summary": "Advanced Nomu type with intelligence, regeneration, and stacked combat quirks.",
+      "strengths": [
+        "Regeneration",
+        "Multiple quirks",
+        "Power"
+      ],
+      "weaknesses": [
+        "Can be unstable"
+      ]
+    }
+  },
+  {
+    "name": "Hood",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\hood.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Hood",
+    "image_source": "File:Hood Appearance (Anime).png",
+    "ability": {
+      "summary": "High-End Nomu with flight, regeneration, strength, and terrifying pressure against pro heroes.",
+      "strengths": [
+        "Flight",
+        "Regeneration",
+        "Strength"
+      ],
+      "weaknesses": [
+        "Aggressive tunnel vision"
+      ]
+    }
+  },
+  {
+    "name": "Magne",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\magne.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kenji_Hikiishi",
+    "image_source": "File:Magne crushes Pixie-Bob.png",
+    "ability": {
+      "summary": "Magnetism villain who disrupts positioning and supports League team chaos.",
+      "strengths": [
+        "Magnetism",
+        "Team disruption",
+        "Close pressure"
+      ],
+      "weaknesses": [
+        "Limited durability"
+      ]
+    }
+  },
+  {
+    "name": "Moonfish",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\moonfish.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Moonfish",
+    "image_source": "File:Moonfish Post War Anime.png",
+    "ability": {
+      "summary": "Blade-tooth villain who attacks with extending teeth and vicious close-range pressure.",
+      "strengths": [
+        "Blade teeth",
+        "Range",
+        "Ferocity"
+      ],
+      "weaknesses": [
+        "Unstable behavior"
+      ]
+    }
+  },
+  {
+    "name": "Mustard",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mustard.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Mustard",
+    "image_source": "File:Mustard's gun.png",
+    "ability": {
+      "summary": "Gas villain whose poison cloud can disable groups if opponents lack protection.",
+      "strengths": [
+        "Poison gas",
+        "Area denial",
+        "Ambush"
+      ],
+      "weaknesses": [
+        "Weak close combat"
+      ]
+    }
+  },
+  {
+    "name": "Kendo Rappa",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\kendo_rappa.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kendo_Rappa",
+    "image_source": "File:Kendo Rappa Anime Profile.png",
+    "ability": {
+      "summary": "Brawler villain whose rapid punches and love of combat make him dangerous up close.",
+      "strengths": [
+        "Rapid punches",
+        "Durability",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Straightforward style"
+      ]
+    }
+  },
+  {
+    "name": "Chronostasis",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\chronostasis.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Hari_Kurono",
+    "image_source": "File:Hari Kurono anime.png",
+    "ability": {
+      "summary": "Hassaikai aide whose clock-hand hair can slow targets after contact.",
+      "strengths": [
+        "Slow effect",
+        "Precision",
+        "Support"
+      ],
+      "weaknesses": [
+        "Needs hit/contact"
+      ]
+    }
+  },
+  {
+    "name": "Mimic",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mimic.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Joi_Irinaka",
+    "image_source": "File:Mimic Profile Anime.png",
+    "ability": {
+      "summary": "Hassaikai lieutenant who can merge with and control objects or structures.",
+      "strengths": [
+        "Object control",
+        "Terrain use",
+        "Ambush"
+      ],
+      "weaknesses": [
+        "Environment dependent"
+      ]
+    }
+  },
+  {
+    "name": "Shin Nemoto",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\shin_nemoto.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shin_Nemoto",
+    "image_source": "File:Shin Nemoto Anime Profile.png",
+    "ability": {
+      "summary": "Truth-demanding Hassaikai member who can break composure and expose secrets.",
+      "strengths": [
+        "Confession",
+        "Psychological pressure"
+      ],
+      "weaknesses": [
+        "Low direct combat"
+      ]
+    }
+  },
+  {
+    "name": "Skeptic",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\skeptic.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tomoyasu_Chikazoku",
+    "image_source": "File:Tomoyasu Chikazoku Anime.png",
+    "ability": {
+      "summary": "Meta Liberation strategist who controls puppet-like human-shaped devices and networks.",
+      "strengths": [
+        "Puppets",
+        "Technology",
+        "Planning"
+      ],
+      "weaknesses": [
+        "Low personal combat"
+      ]
+    }
+  },
+  {
+    "name": "Trumpet",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\trumpet.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Koku_Hanabata",
+    "image_source": "File:Koku Hanabata Anime.png",
+    "ability": {
+      "summary": "Meta Liberation leader whose quirk boosts followers through commanding rhetoric.",
+      "strengths": [
+        "Morale boost",
+        "Leadership",
+        "Crowd support"
+      ],
+      "weaknesses": [
+        "Needs followers"
+      ]
+    }
+  },
+  {
+    "name": "Curious",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\curious.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Chitose_Kizuki",
+    "image_source": "File:Chitose Kizuki Anime.png",
+    "ability": {
+      "summary": "Explosive journalist-villain whose quirk turns touched objects into bombs.",
+      "strengths": [
+        "Explosions",
+        "Mobility pressure",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Moderate durability"
+      ]
+    }
+  },
+  {
+    "name": "Geten",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\geten.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Geten",
+    "image_source": "File:Geten Unhooded (Anime).png",
+    "ability": {
+      "summary": "Ice manipulator with large-scale battlefield control and strong ranged pressure.",
+      "strengths": [
+        "Ice control",
+        "Range",
+        "Area denial"
+      ],
+      "weaknesses": [
+        "Heat matchups"
+      ]
+    }
+  },
+  {
+    "name": "Slidin' Go",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\slidin_go.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tatsuyuki_Tokoname",
+    "image_source": "File:Slidin' Go is arrested (Anime).png",
+    "ability": {
+      "summary": "Public hero secretly tied to villains, using slide mobility and deception.",
+      "strengths": [
+        "Mobility",
+        "Infiltration",
+        "Deception"
+      ],
+      "weaknesses": [
+        "Limited power"
+      ]
+    }
+  },
+  {
+    "name": "Wolfram",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\wolfram.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Wolfram",
+    "image_source": "File:Wolfram Profile.png",
+    "ability": {
+      "summary": "Metal-manipulating movie villain with strong armored pressure and battlefield control.",
+      "strengths": [
+        "Metal control",
+        "Armor",
+        "Strength"
+      ],
+      "weaknesses": [
+        "Movie-only context"
+      ]
+    }
+  },
+  {
+    "name": "Nine",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\nine.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nine",
+    "image_source": "File:Nine Full Body Profile.png",
+    "ability": {
+      "summary": "Experimental villain with multiple quirks, weather control, and high-end destructive output.",
+      "strengths": [
+        "Multiple quirks",
+        "Weather",
+        "Power"
+      ],
+      "weaknesses": [
+        "Body limits"
+      ]
+    }
+  },
+  {
+    "name": "Flect Turn",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\flect_turn.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Flect_Turn",
+    "image_source": "File:Flect Turn Hooded Full Body Profile.png",
+    "ability": {
+      "summary": "Reflect quirk villain whose body rebounds attacks and punishes direct offense.",
+      "strengths": [
+        "Reflection",
+        "Defense",
+        "Leadership"
+      ],
+      "weaknesses": [
+        "Quirk condition limits"
+      ]
+    }
+  },
+  {
+    "name": "Rody Soul",
+    "side": "support",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\rody_soul.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Rody_Soul",
+    "image_source": "File:Rody Soul Full Body Profile.png",
+    "ability": {
+      "summary": "Agile courier whose soul-bird companion reveals emotions and helps evasive movement.",
+      "strengths": [
+        "Agility",
+        "Pino",
+        "Support"
+      ],
+      "weaknesses": [
+        "Low combat power"
+      ]
+    }
+  },
+  {
+    "name": "All For One",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\all_for_one.png",
+    "source": "https://myheroacademia.fandom.com/wiki/All_For_One",
+    "image_source": "File:All For One has full control of Tomura's body.png",
+    "ability": {
+      "summary": "Ancient villain who steals, stockpiles, and combines quirks into overwhelming layered power.",
+      "strengths": [
+        "Quirk stealing",
+        "Versatility",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Arrogance",
+        "Body limitations"
+      ]
+    }
+  },
+  {
+    "name": "Tomura Shigaraki",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\tomura_shigaraki.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Tomura_Shigaraki",
+    "image_source": "File:Tomura 3rd Costume.png",
+    "ability": {
+      "summary": "Decay villain whose touch can erase targets and terrain while his evolution makes him terrifying.",
+      "strengths": [
+        "Decay",
+        "Mobility",
+        "Destruction"
+      ],
+      "weaknesses": [
+        "Instability"
+      ]
+    }
+  },
+  {
+    "name": "Dabi",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\dabi.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Dabi",
+    "image_source": "File:Post-War Dabi Anime Action.png",
+    "ability": {
+      "summary": "Blue-flame villain with extreme firepower and reckless self-damaging output.",
+      "strengths": [
+        "Blue flames",
+        "Range",
+        "Pressure"
+      ],
+      "weaknesses": [
+        "Self-damage"
+      ]
+    }
+  },
+  {
+    "name": "Himiko Toga",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\himiko_toga.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Himiko_Toga",
+    "image_source": "File:Himiko Toga Civilian Full Body.png",
+    "ability": {
+      "summary": "Blood-drinking shapeshifter whose disguise and copied identities create chaos and ambush pressure.",
+      "strengths": [
+        "Disguise",
+        "Ambush",
+        "Mobility"
+      ],
+      "weaknesses": [
+        "Needs blood"
+      ]
+    }
+  },
+  {
+    "name": "Twice",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\twice.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Jin_Bubaigawara",
+    "image_source": "File:Twice Anime Action.png",
+    "ability": {
+      "summary": "Clone-maker who can multiply people or himself into overwhelming numbers when stable.",
+      "strengths": [
+        "Cloning",
+        "Numbers",
+        "Support"
+      ],
+      "weaknesses": [
+        "Mental instability"
+      ]
+    }
+  },
+  {
+    "name": "Spinner",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\spinner.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Shuichi_Iguchi",
+    "image_source": "File:Spinner Body Bulk (Anime).png",
+    "ability": {
+      "summary": "Lizard-like villain whose combat value is lower but loyalty and movement keep him relevant.",
+      "strengths": [
+        "Mobility",
+        "Loyalty",
+        "Weapons"
+      ],
+      "weaknesses": [
+        "Low quirk output"
+      ]
+    }
+  },
+  {
+    "name": "Mr. Compress",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\mr_compress.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Atsuhiro_Sako",
+    "image_source": "File:Mr. Compress Anime Action.png",
+    "ability": {
+      "summary": "Compression villain who can instantly capture or move targets and objects with a touch.",
+      "strengths": [
+        "Compression",
+        "Capture",
+        "Escape utility"
+      ],
+      "weaknesses": [
+        "Needs contact"
+      ]
+    }
+  },
+  {
+    "name": "Kurogiri",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\kurogiri.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kurogiri",
+    "image_source": "File:Kurogiri Villain Costume.png",
+    "ability": {
+      "summary": "Warp Gate villain whose portals provide elite positioning, escape, and team mobility.",
+      "strengths": [
+        "Warping",
+        "Team mobility",
+        "Rescue or extraction"
+      ],
+      "weaknesses": [
+        "Mist-body core vulnerability"
+      ]
+    }
+  },
+  {
+    "name": "Stain",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\stain.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Chizome_Akaguro",
+    "image_source": "File:Stain New Costume (Anime).png",
+    "ability": {
+      "summary": "Hero Killer whose Bloodcurdle paralysis and blade skill punish careless close-range opponents.",
+      "strengths": [
+        "Paralysis",
+        "Sword skill",
+        "Ambush"
+      ],
+      "weaknesses": [
+        "Needs blood sample"
+      ]
+    }
+  },
+  {
+    "name": "Overhaul",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\overhaul.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kai_Chisaki",
+    "image_source": "File:Kai Chisaki Anime Action.png",
+    "ability": {
+      "summary": "Matter-reconstruction villain who can disassemble or rebuild targets with a touch.",
+      "strengths": [
+        "Overhaul",
+        "Instant kill threat",
+        "Reconstruction"
+      ],
+      "weaknesses": [
+        "Needs hands or contact"
+      ]
+    }
+  },
+  {
+    "name": "Gentle Criminal",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\gentle_criminal.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Danjuro_Tobita",
+    "image_source": "File:Danjuro Tobita Anime Profile.png",
+    "ability": {
+      "summary": "Elasticity villain whose quirk turns surfaces springy for tricky movement and defense.",
+      "strengths": [
+        "Elasticity",
+        "Mobility",
+        "Tricks"
+      ],
+      "weaknesses": [
+        "Moderate raw power"
+      ]
+    }
+  },
+  {
+    "name": "La Brava",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\la_brava.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Manami_Aiba",
+    "image_source": "File:Manami Aiba Anime Profile.png",
+    "ability": {
+      "summary": "Support villain whose Love quirk dramatically boosts Gentle when her feelings peak.",
+      "strengths": [
+        "Power boost",
+        "Hacking",
+        "Support"
+      ],
+      "weaknesses": [
+        "Dependent on Gentle"
+      ]
+    }
+  },
+  {
+    "name": "Muscular",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\muscular.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Goto_Imasuji",
+    "image_source": "File:Goto Imasuji Villain Costume (Anime).png",
+    "ability": {
+      "summary": "Muscle-augmentation brute with huge strength, durability, and direct-fight pressure.",
+      "strengths": [
+        "Strength",
+        "Durability",
+        "Brutality"
+      ],
+      "weaknesses": [
+        "Straightforward style"
+      ]
+    }
+  },
+  {
+    "name": "USJ Nomu",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\usj_nomu.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Nomu_%28U.S.J.%29",
+    "image_source": "File:Nomu Anime Profile.png",
+    "ability": {
+      "summary": "Engineered monster built to counter All Might with shock absorption, regeneration, and huge raw power.",
+      "strengths": [
+        "Shock absorption",
+        "Regeneration",
+        "Power"
+      ],
+      "weaknesses": [
+        "Command limits"
+      ]
+    }
+  },
+  {
+    "name": "Re-Destro",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\re_destro.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Rikiya_Yotsubashi",
+    "image_source": "File:Rikiya Yotsubashi Anime.png",
+    "ability": {
+      "summary": "Stress-powered villain whose stored stress becomes destructive strength and pressure.",
+      "strengths": [
+        "Stress power",
+        "Leadership",
+        "Destruction"
+      ],
+      "weaknesses": [
+        "Stress state dependent"
+      ]
+    }
+  },
+  {
+    "name": "Lady Nagant",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\lady_nagant.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Kaina_Tsutsumi",
+    "image_source": "File:Kaina Tsutsumi Villain Costume (Anime).png",
+    "ability": {
+      "summary": "Former pro sniper whose rifle quirk and precision make her deadly at extreme range.",
+      "strengths": [
+        "Sniping",
+        "Range",
+        "Mobility"
+      ],
+      "weaknesses": [
+        "Close-range pressure"
+      ]
+    }
+  },
+  {
+    "name": "Gigantomachia",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\MHA\\gigantomachia.png",
+    "source": "https://myheroacademia.fandom.com/wiki/Gigantomachia",
+    "image_source": "File:Gigantomachia Anime Profile.png",
+    "ability": {
+      "summary": "Massive loyal powerhouse with destructive scale, endurance, and disaster-level battlefield impact.",
+      "strengths": [
+        "Size",
+        "Endurance",
+        "Destruction"
+      ],
+      "weaknesses": [
+        "Command dependent"
+      ]
+    }
+  }
+]

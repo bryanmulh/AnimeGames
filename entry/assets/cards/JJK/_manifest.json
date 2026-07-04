@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Yuji Itadori",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuji_itadori.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Close-range cursed energy brawler whose physical gifts and Black Flash experience let him pressure stronger enemies.",
+      "strengths": [
+        "Physical power",
+        "Speed",
+        "Durability",
+        "Black Flash"
+      ],
+      "weaknesses": [
+        "Limited range",
+        "Few technique options"
+      ]
+    }
+  },
+  {
+    "name": "Megumi Fushiguro",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\megumi_fushiguro.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Versatile Ten Shadows user who fights with summons, traps, mobility, and incomplete domain pressure.",
+      "strengths": [
+        "Shikigami",
+        "Battle IQ",
+        "Versatility",
+        "Domain potential"
+      ],
+      "weaknesses": [
+        "Setup dependent",
+        "Can overextend"
+      ]
+    }
+  },
+  {
+    "name": "Nobara Kugisaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\nobara_kugisaki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Nobara_Kugisaki",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Mid-range straw doll technique user who can punish linked targets with Resonance and clever nail attacks.",
+      "strengths": [
+        "Resonance",
+        "Pain tolerance",
+        "Tactical pressure"
+      ],
+      "weaknesses": [
+        "Lower durability",
+        "Needs a link or setup"
+      ]
+    }
+  },
+  {
+    "name": "Satoru Gojo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\satoru_gojo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo",
+    "duel": "SS",
+    "team": "SS",
+    "ability": {
+      "summary": "Apex Limitless and Six Eyes sorcerer whose defense, speed, domain, and output define the top of modern combat.",
+      "strengths": [
+        "Limitless",
+        "Six Eyes",
+        "Domain",
+        "Extreme defense"
+      ],
+      "weaknesses": [
+        "N/A"
+      ]
+    }
+  },
+  {
+    "name": "Maki Zenin",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\maki_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Weapon-focused physical powerhouse whose heavenly restriction growth makes her a terrifying close-range fighter.",
+      "strengths": [
+        "Physical stats",
+        "Weapons",
+        "Speed",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Limited ranged options",
+        "Relies on tools"
+      ]
+    }
+  },
+  {
+    "name": "Toge Inumaki",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\toge_inumaki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Toge_Inumaki",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Cursed Speech user who can instantly control or stun targets but pays a heavy physical cost for stronger commands.",
+      "strengths": [
+        "Crowd control",
+        "Quick disables",
+        "Team setup"
+      ],
+      "weaknesses": [
+        "Throat backlash",
+        "Limited direct damage"
+      ]
+    }
+  },
+  {
+    "name": "Panda",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\panda.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Panda",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Cursed corpse bruiser with multiple cores, strong durability, and flexible forms for frontline pressure.",
+      "strengths": [
+        "Durability",
+        "Multiple cores",
+        "Close combat"
+      ],
+      "weaknesses": [
+        "Limited technique range",
+        "Vulnerable if cores are damaged"
+      ]
+    }
+  },
+  {
+    "name": "Yuta Okkotsu",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuta_okkotsu.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu",
+    "duel": "S",
+    "team": "S",
+    "ability": {
+      "summary": "Special-grade sorcerer backed by Rika, massive cursed energy, reverse cursed technique, and copied technique potential.",
+      "strengths": [
+        "Rika",
+        "Cursed energy",
+        "Healing",
+        "Technique copying"
+      ],
+      "weaknesses": [
+        "Time or condition limits",
+        "Protective instincts"
+      ]
+    }
+  },
+  {
+    "name": "Kento Nanami",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kento_nanami.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Disciplined Grade 1 sorcerer whose Ratio Technique turns precise strikes into reliable critical damage.",
+      "strengths": [
+        "Ratio Technique",
+        "Discipline",
+        "Experience",
+        "Consistency"
+      ],
+      "weaknesses": [
+        "Limited area control",
+        "Less explosive ceiling"
+      ]
+    }
+  },
+  {
+    "name": "Aoi Todo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\aoi_todo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Aoi_Todo",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Brilliant bruiser whose Boogie Woogie position swapping creates brutal team combos and matchup confusion.",
+      "strengths": [
+        "Boogie Woogie",
+        "Physical power",
+        "Battle IQ",
+        "Team synergy"
+      ],
+      "weaknesses": [
+        "Needs claps",
+        "Less ranged pressure"
+      ]
+    }
+  },
+  {
+    "name": "Mai Zenin",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mai_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mai_Zenin",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Construction technique user and marksman who contributes ranged pressure but has limited cursed energy output.",
+      "strengths": [
+        "Marksmanship",
+        "Surprise shots",
+        "Range"
+      ],
+      "weaknesses": [
+        "Low output",
+        "Limited stamina"
+      ]
+    }
+  },
+  {
+    "name": "Kasumi Miwa",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kasumi_miwa.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kasumi_Miwa",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Simple Domain sword user with solid fundamentals who is useful defensively but outmatched by elite fighters.",
+      "strengths": [
+        "Simple Domain",
+        "Swordsmanship",
+        "Discipline"
+      ],
+      "weaknesses": [
+        "Low ceiling",
+        "Limited feats"
+      ]
+    }
+  },
+  {
+    "name": "Noritoshi Kamo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\noritoshi_kamo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Noritoshi_Kamo",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Blood Manipulation user who offers mid-range pressure, tracking, and piercing attacks with careful resource control.",
+      "strengths": [
+        "Blood Manipulation",
+        "Range",
+        "Precision"
+      ],
+      "weaknesses": [
+        "Blood supply limits",
+        "Moderate durability"
+      ]
+    }
+  },
+  {
+    "name": "Kokichi Muta",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kokichi_muta.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kokichi_Muta",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Remote puppet fighter whose Mechamaru range and stored energy make him dangerous with preparation.",
+      "strengths": [
+        "Long range",
+        "Puppet bodies",
+        "Prepared firepower"
+      ],
+      "weaknesses": [
+        "Fragile real body",
+        "Preparation dependent"
+      ]
+    }
+  },
+  {
+    "name": "Kinji Hakari",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kinji_hakari.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kinji_Hakari",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "High-risk gambler whose domain jackpot can turn him into a nearly unstoppable regeneration-focused brawler.",
+      "strengths": [
+        "Jackpot",
+        "Regeneration",
+        "Aggression",
+        "Stalling"
+      ],
+      "weaknesses": [
+        "Luck dependent",
+        "Needs domain rhythm"
+      ]
+    }
+  },
+  {
+    "name": "Kirara Hoshi",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kirara_hoshi.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kirara_Hoshi",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Tricky support fighter whose star-based attraction rules can block approaches and disrupt targeting.",
+      "strengths": [
+        "Defensive control",
+        "Positioning",
+        "Confusion"
+      ],
+      "weaknesses": [
+        "Low direct damage",
+        "Technique can be decoded"
+      ]
+    }
+  },
+  {
+    "name": "Mei Mei",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mei_mei.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mei_Mei",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Pragmatic Grade 1 fighter who combines axe combat, strong physicals, and crow-based surveillance or burst attacks.",
+      "strengths": [
+        "Crow control",
+        "Axe combat",
+        "Tactical sense"
+      ],
+      "weaknesses": [
+        "Support is conditional",
+        "Less versatile alone"
+      ]
+    }
+  },
+  {
+    "name": "Yuki Tsukumo",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\yuki_tsukumo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Yuki_Tsukumo",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Special-grade sorcerer with overwhelming mass-based striking power and high-level combat knowledge.",
+      "strengths": [
+        "Mass technique",
+        "Raw power",
+        "Experience",
+        "Special-grade output"
+      ],
+      "weaknesses": [
+        "Limited anime detail",
+        "Unknown limits"
+      ]
+    }
+  },
+  {
+    "name": "Utahime Iori",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\utahime_iori.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Utahime_Iori",
+    "duel": "C",
+    "team": "A",
+    "ability": {
+      "summary": "Support-oriented sorcerer whose value comes from amplifying allies more than winning direct fights.",
+      "strengths": [
+        "Buff support",
+        "Coordination",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Limited direct combat feats",
+        "Setup dependent"
+      ]
+    }
+  },
+  {
+    "name": "Masamichi Yaga",
+    "side": "good",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\masamichi_yaga.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Masamichi_Yaga",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Experienced puppet specialist who can fight personally and create or command cursed corpses for utility.",
+      "strengths": [
+        "Cursed corpses",
+        "Experience",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Limited shown combat",
+        "Preparation dependent"
+      ]
+    }
+  },
+  {
+    "name": "Shoko Ieiri",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\shoko_ieiri.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Shoko_Ieiri",
+    "duel": "D",
+    "team": "S",
+    "ability": {
+      "summary": "Reverse cursed technique healer whose direct combat value is low but team recovery value is exceptional.",
+      "strengths": [
+        "Healing",
+        "Medical knowledge",
+        "Team sustain"
+      ],
+      "weaknesses": [
+        "Low combat feats",
+        "Needs protection"
+      ]
+    }
+  },
+  {
+    "name": "Master Tengen",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\master_tengen.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Tengen",
+    "duel": "D",
+    "team": "S",
+    "ability": {
+      "summary": "Barrier master whose direct fighting is not the point, but whose defensive infrastructure is enormously valuable.",
+      "strengths": [
+        "Barrier mastery",
+        "Strategic support",
+        "Knowledge"
+      ],
+      "weaknesses": [
+        "Low direct combat",
+        "Specialized role"
+      ]
+    }
+  },
+  {
+    "name": "Hiromi Higuruma",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hiromi_higuruma.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hiromi_Higuruma",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Genius sorcerer whose legal-themed domain can confiscate advantages and create deadly punishment scenarios.",
+      "strengths": [
+        "Domain",
+        "Confiscation",
+        "Rapid growth",
+        "Judgment pressure"
+      ],
+      "weaknesses": [
+        "Rule dependent",
+        "Needs domain conditions"
+      ]
+    }
+  },
+  {
+    "name": "Fumihiko Takaba",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\fumihiko_takaba.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Fumihiko_Takaba",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Unpredictable comedian whose reality-bending comic logic can be absurdly strong when his confidence holds.",
+      "strengths": [
+        "Unpredictability",
+        "Reality-warping potential",
+        "Disruption"
+      ],
+      "weaknesses": [
+        "Mindset dependent",
+        "Hard to control"
+      ]
+    }
+  },
+  {
+    "name": "Ryomen Sukuna",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\ryomen_sukuna.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna",
+    "duel": "SS",
+    "team": "SS",
+    "ability": {
+      "summary": "King of Curses with monstrous cutting techniques, domain threat, regeneration, and unmatched cruelty in battle.",
+      "strengths": [
+        "Cleave and Dismantle",
+        "Domain",
+        "Regeneration",
+        "Killer instinct"
+      ],
+      "weaknesses": [
+        "Host or vessel constraints",
+        "Arrogance"
+      ]
+    }
+  },
+  {
+    "name": "Suguru Geto",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\suguru_geto.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Special-grade curse manipulator who can overwhelm enemies through stored curses, numbers, and tactical variety.",
+      "strengths": [
+        "Curse Manipulation",
+        "Numbers",
+        "Versatility",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Resource dependent",
+        "Can be pressured directly"
+      ]
+    }
+  },
+  {
+    "name": "Kenjaku",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kenjaku.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kenjaku",
+    "duel": "S",
+    "team": "S",
+    "ability": {
+      "summary": "Ancient strategist with stolen bodies, layered techniques, and elite curse manipulation knowledge.",
+      "strengths": [
+        "Planning",
+        "Technique variety",
+        "Curse Manipulation",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Unknown full limits",
+        "Relies on schemes"
+      ]
+    }
+  },
+  {
+    "name": "Mahito",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\mahito.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Mahito",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Soul-shaping curse whose Idle Transfiguration makes contact lethal and gives him dangerous adaptation potential.",
+      "strengths": [
+        "Idle Transfiguration",
+        "Soul attacks",
+        "Adaptation",
+        "Domain"
+      ],
+      "weaknesses": [
+        "Soul-aware counters",
+        "Immaturity"
+      ]
+    }
+  },
+  {
+    "name": "Jogo",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\jogo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Jogo",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Disaster curse with volcanic firepower, speed, and area attacks that make him devastating against most opponents.",
+      "strengths": [
+        "Firepower",
+        "Speed",
+        "Area attacks",
+        "Domain"
+      ],
+      "weaknesses": [
+        "Poor matchups against apex tiers",
+        "Temper"
+      ]
+    }
+  },
+  {
+    "name": "Hanami",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hanami.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hanami",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Durable disaster curse with plant-based control, cursed buds, and excellent staying power.",
+      "strengths": [
+        "Durability",
+        "Plant control",
+        "Cursed buds",
+        "Crowd control"
+      ],
+      "weaknesses": [
+        "Less explosive speed",
+        "Can be overwhelmed by top output"
+      ]
+    }
+  },
+  {
+    "name": "Dagon",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\dagon.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Dagon",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Disaster curse whose aquatic shikigami swarm and domain create strong area pressure in team fights.",
+      "strengths": [
+        "Domain",
+        "Shikigami swarm",
+        "Area pressure",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Needs room to ramp",
+        "Vulnerable to elite close-range pressure"
+      ]
+    }
+  },
+  {
+    "name": "Toji Fushiguro",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\toji_fushiguro.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Heavenly restricted assassin with no cursed energy, elite physical stats, stealth, and cursed tool mastery.",
+      "strengths": [
+        "Speed",
+        "Stealth",
+        "Weapons",
+        "Physical power"
+      ],
+      "weaknesses": [
+        "No innate technique",
+        "Tool dependent"
+      ]
+    }
+  },
+  {
+    "name": "Uraume",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\uraume.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Uraume",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Ice technique user who can freeze, restrain, and control space with dangerous battlefield utility.",
+      "strengths": [
+        "Ice control",
+        "Restraint",
+        "Area denial",
+        "Composure"
+      ],
+      "weaknesses": [
+        "Limited anime detail",
+        "Unknown durability"
+      ]
+    }
+  },
+  {
+    "name": "Choso",
+    "side": "gray",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\choso.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Choso",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Blood Manipulation fighter with strong ranged pressure, durability, and dangerous piercing attacks.",
+      "strengths": [
+        "Blood Manipulation",
+        "Piercing Blood",
+        "Durability",
+        "Range"
+      ],
+      "weaknesses": [
+        "Blood resource management",
+        "Emotional openings"
+      ]
+    }
+  },
+  {
+    "name": "Eso",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\eso.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Eso",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Cursed womb fighter whose Decay technique pressures enemies over time and pairs well with Kechizu.",
+      "strengths": [
+        "Decay technique",
+        "Team pairing",
+        "Mid-range pressure"
+      ],
+      "weaknesses": [
+        "Vulnerable if technique is countered",
+        "Lower durability"
+      ]
+    }
+  },
+  {
+    "name": "Kechizu",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\kechizu.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Kechizu",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Cursed womb close-range attacker who supports Eso's poison-like pressure but is the weaker half of the pair.",
+      "strengths": [
+        "Close pressure",
+        "Decay support",
+        "Team pairing"
+      ],
+      "weaknesses": [
+        "Limited technique depth",
+        "Lower combat ceiling"
+      ]
+    }
+  },
+  {
+    "name": "Naoya Zenin",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\naoya_zenin.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Naoya_Zenin",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Projection Sorcery speedster who can overwhelm opponents with fast movement and timing-based attacks.",
+      "strengths": [
+        "Speed",
+        "Projection Sorcery",
+        "Aggression"
+      ],
+      "weaknesses": [
+        "Predictable arrogance",
+        "Punishable if timing is read"
+      ]
+    }
+  },
+  {
+    "name": "Hajime Kashimo",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\hajime_kashimo.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Hajime_Kashimo",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Reincarnated sorcerer built for duels, using electrified cursed energy and relentless close-range pressure.",
+      "strengths": [
+        "Lightning trait",
+        "Duel pressure",
+        "Aggression",
+        "Combat skill"
+      ],
+      "weaknesses": [
+        "Team utility is limited",
+        "Seeks direct fights"
+      ]
+    }
+  },
+  {
+    "name": "Reggie Star",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\reggie_star.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Reggie_Star",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Clever contract-based sorcerer who turns receipts into tools, summons, and tactical surprises.",
+      "strengths": [
+        "Tactical creativity",
+        "Item generation",
+        "Planning"
+      ],
+      "weaknesses": [
+        "Needs receipts",
+        "Less raw power"
+      ]
+    }
+  },
+  {
+    "name": "Iori Hazenoki",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\iori_hazenoki.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Iori_Hazenoki",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Explosive fighter who weaponizes body parts and reverse cursed technique for harassment and ranged pressure.",
+      "strengths": [
+        "Explosions",
+        "Regeneration",
+        "Harassment"
+      ],
+      "weaknesses": [
+        "Limited shown depth",
+        "Can be outplanned"
+      ]
+    }
+  },
+  {
+    "name": "Remi",
+    "side": "bad",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\JJK\\remi.png",
+    "source": "https://jujutsu-kaisen.fandom.com/wiki/Remi",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Scorpion-haired Culling Game player who relies more on deception and ambushes than direct power.",
+      "strengths": [
+        "Deception",
+        "Ambush",
+        "Mobility"
+      ],
+      "weaknesses": [
+        "Low direct combat",
+        "Limited feats"
+      ]
+    }
+  }
+]

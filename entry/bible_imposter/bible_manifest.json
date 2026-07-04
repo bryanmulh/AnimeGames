@@ -1,0 +1,884 @@
+﻿[
+    {
+        "text":  "Noah\u0027s Ark",
+        "category":  "Genesis",
+        "difficulty":  "Easy",
+        "hint":  "A flood, a covenant, and pairs of animals."
+    },
+    {
+        "text":  "Burning Bush",
+        "category":  "Exodus",
+        "difficulty":  "Easy",
+        "hint":  "A calling from God near Mount Horeb."
+    },
+    {
+        "text":  "David and Goliath",
+        "category":  "Old Testament",
+        "difficulty":  "Easy",
+        "hint":  "A young shepherd faces a giant."
+    },
+    {
+        "text":  "Daniel in the Lions\u0027 Den",
+        "category":  "Old Testament",
+        "difficulty":  "Easy",
+        "hint":  "Faithfulness during a royal decree."
+    },
+    {
+        "text":  "Sermon on the Mount",
+        "category":  "Gospels",
+        "difficulty":  "Medium",
+        "hint":  "Blessings, prayer, and kingdom teaching."
+    },
+    {
+        "text":  "The Good Samaritan",
+        "category":  "Parables",
+        "difficulty":  "Easy",
+        "hint":  "A neighbor shows mercy on the road."
+    },
+    {
+        "text":  "The Prodigal Son",
+        "category":  "Parables",
+        "difficulty":  "Easy",
+        "hint":  "A lost son returns home."
+    },
+    {
+        "text":  "Pentecost",
+        "category":  "Acts",
+        "difficulty":  "Medium",
+        "hint":  "Fire, languages, and the early church."
+    },
+    {
+        "text":  "Road to Damascus",
+        "category":  "Acts",
+        "difficulty":  "Medium",
+        "hint":  "A persecutor is stopped by a bright light."
+    },
+    {
+        "text":  "Armor of God",
+        "category":  "Epistles",
+        "difficulty":  "Medium",
+        "hint":  "Spiritual equipment described by Paul."
+    },
+    {
+        "text":  "Adam",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Beginnings, choices, and a garden setting."
+    },
+    {
+        "text":  "Eve",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Beginnings, relationships, and a garden setting."
+    },
+    {
+        "text":  "Noah",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "A family, a storm, and a fresh start."
+    },
+    {
+        "text":  "Abraham",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "A long journey and a big promise."
+    },
+    {
+        "text":  "Sarah",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Waiting, laughter, and a promised family."
+    },
+    {
+        "text":  "Moses",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Leadership, freedom, and a wilderness road."
+    },
+    {
+        "text":  "David",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Music, courage, and a royal story."
+    },
+    {
+        "text":  "Solomon",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Wisdom, building, and royal decisions."
+    },
+    {
+        "text":  "Jonah",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Running away, water, and a second chance."
+    },
+    {
+        "text":  "Daniel",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Faithfulness in a foreign empire."
+    },
+    {
+        "text":  "Mary",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "A surprising message and trust."
+    },
+    {
+        "text":  "Joseph",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Dreams, family pressure, and faithfulness."
+    },
+    {
+        "text":  "Jesus",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Teaching, healing, and rescue."
+    },
+    {
+        "text":  "Peter",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "Bold words, mistakes, and restoration."
+    },
+    {
+        "text":  "Paul",
+        "category":  "People",
+        "difficulty":  "Easy",
+        "hint":  "A changed direction and many letters."
+    },
+    {
+        "text":  "Jerusalem",
+        "category":  "Places",
+        "difficulty":  "Easy",
+        "hint":  "Worship, kings, and crowded holy days."
+    },
+    {
+        "text":  "Bethlehem",
+        "category":  "Places",
+        "difficulty":  "Easy",
+        "hint":  "A small town with a royal connection."
+    },
+    {
+        "text":  "Egypt",
+        "category":  "Places",
+        "difficulty":  "Easy",
+        "hint":  "Shelter, slavery, and leaving home."
+    },
+    {
+        "text":  "Red Sea",
+        "category":  "Places",
+        "difficulty":  "Easy",
+        "hint":  "A barrier becomes a path forward."
+    },
+    {
+        "text":  "Garden of Eden",
+        "category":  "Places",
+        "difficulty":  "Easy",
+        "hint":  "A beginning place with trees and choices."
+    },
+    {
+        "text":  "Ark",
+        "category":  "Objects",
+        "difficulty":  "Easy",
+        "hint":  "A rescue vessel in a dangerous season."
+    },
+    {
+        "text":  "Rainbow",
+        "category":  "Objects",
+        "difficulty":  "Easy",
+        "hint":  "A sign after the storm."
+    },
+    {
+        "text":  "Stone Tablets",
+        "category":  "Objects",
+        "difficulty":  "Easy",
+        "hint":  "A lasting reminder of covenant rules."
+    },
+    {
+        "text":  "Manger",
+        "category":  "Objects",
+        "difficulty":  "Easy",
+        "hint":  "An ordinary feeding place in a humble scene."
+    },
+    {
+        "text":  "Cross",
+        "category":  "Objects",
+        "difficulty":  "Easy",
+        "hint":  "A Roman instrument tied to sacrifice."
+    },
+    {
+        "text":  "Creation",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "Order, light, and a good beginning."
+    },
+    {
+        "text":  "Noah\u0027s Flood",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "Judgment, rescue, and waters covering the earth."
+    },
+    {
+        "text":  "Exodus",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "Leaving bondage for a promised future."
+    },
+    {
+        "text":  "Birth of Jesus",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "A humble arrival announced with joy."
+    },
+    {
+        "text":  "Feeding the Five Thousand",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "A small lunch becomes enough for many."
+    },
+    {
+        "text":  "Resurrection",
+        "category":  "Events",
+        "difficulty":  "Easy",
+        "hint":  "A sealed ending becomes a new beginning."
+    },
+    {
+        "text":  "Prayer",
+        "category":  "General",
+        "difficulty":  "Easy",
+        "hint":  "Talking and listening with trust."
+    },
+    {
+        "text":  "Faith",
+        "category":  "General",
+        "difficulty":  "Easy",
+        "hint":  "Trust before everything is visible."
+    },
+    {
+        "text":  "Love",
+        "category":  "General",
+        "difficulty":  "Easy",
+        "hint":  "The command that shapes the others."
+    },
+    {
+        "text":  "Forgiveness",
+        "category":  "General",
+        "difficulty":  "Easy",
+        "hint":  "A debt released instead of collected."
+    },
+    {
+        "text":  "Ten Commandments",
+        "category":  "General",
+        "difficulty":  "Easy",
+        "hint":  "Covenant life summarized in numbered words."
+    },
+    {
+        "text":  "Psalms",
+        "category":  "Books",
+        "difficulty":  "Easy",
+        "hint":  "Songs, prayers, grief, and praise."
+    },
+    {
+        "text":  "Proverbs",
+        "category":  "Books",
+        "difficulty":  "Easy",
+        "hint":  "Short sayings for wise living."
+    },
+    {
+        "text":  "Gospels",
+        "category":  "Books",
+        "difficulty":  "Easy",
+        "hint":  "Four accounts centered on good news."
+    },
+    {
+        "text":  "Isaac",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A promised child in a covenant family."
+    },
+    {
+        "text":  "Jacob",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Wrestling, blessing, and a renamed future."
+    },
+    {
+        "text":  "Esau",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "An older brother with a complicated birthright."
+    },
+    {
+        "text":  "Ruth",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Loyalty, harvest fields, and a new home."
+    },
+    {
+        "text":  "Boaz",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Kindness shown in a harvest story."
+    },
+    {
+        "text":  "Samuel",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A listening child becomes a leader."
+    },
+    {
+        "text":  "Saul",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A tall first choice with a troubled reign."
+    },
+    {
+        "text":  "Elijah",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A fiery prophet confronting false worship."
+    },
+    {
+        "text":  "Elisha",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A prophet known for many miracles."
+    },
+    {
+        "text":  "Esther",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Courage in a palace at the right time."
+    },
+    {
+        "text":  "Mordecai",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Wisdom near a palace gate."
+    },
+    {
+        "text":  "Job",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Suffering, questions, and endurance."
+    },
+    {
+        "text":  "John the Baptist",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A wilderness voice preparing the way."
+    },
+    {
+        "text":  "Martha",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "Hospitality, grief, and honest conversation."
+    },
+    {
+        "text":  "Lazarus",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A friend connected to a tomb and tears."
+    },
+    {
+        "text":  "Zacchaeus",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A short outsider climbs for a better view."
+    },
+    {
+        "text":  "Timothy",
+        "category":  "People",
+        "difficulty":  "Medium",
+        "hint":  "A younger coworker trusted with leadership."
+    },
+    {
+        "text":  "Galilee",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A northern region of fishing and teaching."
+    },
+    {
+        "text":  "Nazareth",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "An ordinary hometown with low expectations."
+    },
+    {
+        "text":  "Canaan",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A promised land after a long road."
+    },
+    {
+        "text":  "Jordan River",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A boundary crossed at key moments."
+    },
+    {
+        "text":  "Mount Sinai",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A mountain of covenant and thunder."
+    },
+    {
+        "text":  "Babylon",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "Empire, exile, and pressure to compromise."
+    },
+    {
+        "text":  "Samaria",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A divided region with tense history."
+    },
+    {
+        "text":  "Jericho",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "A fortified city remembered for collapse."
+    },
+    {
+        "text":  "Sea of Galilee",
+        "category":  "Places",
+        "difficulty":  "Medium",
+        "hint":  "Water, boats, storms, and teaching crowds."
+    },
+    {
+        "text":  "Ark of the Covenant",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "A sacred chest connected to God\u0027s presence."
+    },
+    {
+        "text":  "Staff of Moses",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "An ordinary tool used in extraordinary ways."
+    },
+    {
+        "text":  "Manna",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "Daily provision in a wilderness season."
+    },
+    {
+        "text":  "Sling and Stone",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "Simple tools against an oversized threat."
+    },
+    {
+        "text":  "Mustard Seed",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "Something tiny used to picture growth."
+    },
+    {
+        "text":  "Loaves and Fish",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "Ordinary food stretched far beyond expectation."
+    },
+    {
+        "text":  "Crown of Thorns",
+        "category":  "Objects",
+        "difficulty":  "Medium",
+        "hint":  "Mockery turned into a symbol of suffering."
+    },
+    {
+        "text":  "Tower of Babel",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "Human pride and confused speech."
+    },
+    {
+        "text":  "Fall of Jericho",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "Marching, shouting, and broken defenses."
+    },
+    {
+        "text":  "Elijah on Mount Carmel",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "A public showdown over true worship."
+    },
+    {
+        "text":  "Fiery Furnace",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "Refusal to bow under deadly pressure."
+    },
+    {
+        "text":  "Walking on Water",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "Fear, wind, and trust on the waves."
+    },
+    {
+        "text":  "Last Supper",
+        "category":  "Events",
+        "difficulty":  "Medium",
+        "hint":  "A shared meal before betrayal and suffering."
+    },
+    {
+        "text":  "Covenant",
+        "category":  "General",
+        "difficulty":  "Medium",
+        "hint":  "A binding promise that shapes a relationship."
+    },
+    {
+        "text":  "Parable",
+        "category":  "General",
+        "difficulty":  "Medium",
+        "hint":  "A story that sneaks up with meaning."
+    },
+    {
+        "text":  "Prophet",
+        "category":  "General",
+        "difficulty":  "Medium",
+        "hint":  "A messenger who speaks uncomfortable truth."
+    },
+    {
+        "text":  "Disciple",
+        "category":  "General",
+        "difficulty":  "Medium",
+        "hint":  "A learner who follows closely."
+    },
+    {
+        "text":  "Beatitudes",
+        "category":  "General",
+        "difficulty":  "Medium",
+        "hint":  "Blessings that reverse normal expectations."
+    },
+    {
+        "text":  "Genesis",
+        "category":  "Books",
+        "difficulty":  "Medium",
+        "hint":  "Origins, families, promises, and beginnings."
+    },
+    {
+        "text":  "Isaiah",
+        "category":  "Books",
+        "difficulty":  "Medium",
+        "hint":  "Judgment, hope, poetry, and a coming servant."
+    },
+    {
+        "text":  "Acts",
+        "category":  "Books",
+        "difficulty":  "Medium",
+        "hint":  "The early church on the move."
+    },
+    {
+        "text":  "Romans",
+        "category":  "Books",
+        "difficulty":  "Medium",
+        "hint":  "A careful letter about faith and grace."
+    },
+    {
+        "text":  "Aaron",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A spokesman tied to worship leadership."
+    },
+    {
+        "text":  "Miriam",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A song, a riverbank, and wilderness leadership."
+    },
+    {
+        "text":  "Deborah",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Wisdom under a tree and battlefield courage."
+    },
+    {
+        "text":  "Gideon",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A hesitant leader with reduced numbers."
+    },
+    {
+        "text":  "Samson",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Strength, weakness, and costly choices."
+    },
+    {
+        "text":  "Abigail",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Quick wisdom prevents a disaster."
+    },
+    {
+        "text":  "Nehemiah",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Walls, prayer, and practical leadership."
+    },
+    {
+        "text":  "Ezra",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Scripture teaching after a return home."
+    },
+    {
+        "text":  "Melchizedek",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A mysterious priestly figure with bread and wine."
+    },
+    {
+        "text":  "Habakkuk",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "Hard questions and patient trust."
+    },
+    {
+        "text":  "Simeon",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "An elderly witness waiting in the temple."
+    },
+    {
+        "text":  "Anna the Prophetess",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A faithful worshiper recognizes a promise."
+    },
+    {
+        "text":  "Nicodemus",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A nighttime conversation about new birth."
+    },
+    {
+        "text":  "Priscilla",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A teacher and coworker in the early church."
+    },
+    {
+        "text":  "Aquila",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A tentmaking coworker and traveling host."
+    },
+    {
+        "text":  "Lydia",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "A businesswoman opens her heart and home."
+    },
+    {
+        "text":  "Apollos",
+        "category":  "People",
+        "difficulty":  "Hard",
+        "hint":  "An eloquent teacher who needed fuller instruction."
+    },
+    {
+        "text":  "Bethel",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A place of dreams, altars, and return visits."
+    },
+    {
+        "text":  "Shechem",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A crossroads place for covenant decisions."
+    },
+    {
+        "text":  "Shiloh",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "An early worship center before the monarchy."
+    },
+    {
+        "text":  "Beersheba",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A southern landmark tied to wells and oaths."
+    },
+    {
+        "text":  "Nineveh",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A great city given a warning."
+    },
+    {
+        "text":  "Mount Carmel",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A high place remembered for a contest."
+    },
+    {
+        "text":  "Patmos",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "An island linked with a vision."
+    },
+    {
+        "text":  "Antioch",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A sending church with a mixed community."
+    },
+    {
+        "text":  "Ephesus",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A city of ministry, conflict, and letters."
+    },
+    {
+        "text":  "Corinth",
+        "category":  "Places",
+        "difficulty":  "Hard",
+        "hint":  "A busy city with a messy church."
+    },
+    {
+        "text":  "Tabernacle",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A portable worship space for the wilderness."
+    },
+    {
+        "text":  "Menorah",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A lampstand used in sacred space."
+    },
+    {
+        "text":  "Ephod",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A priestly garment tied to discernment."
+    },
+    {
+        "text":  "Urim and Thummim",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "Sacred decision tools from priestly practice."
+    },
+    {
+        "text":  "Hyssop",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A small plant used in cleansing scenes."
+    },
+    {
+        "text":  "Alabaster Jar",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A costly container in an act of devotion."
+    },
+    {
+        "text":  "Widow\u0027s Mite",
+        "category":  "Objects",
+        "difficulty":  "Hard",
+        "hint":  "A tiny gift praised for costly trust."
+    },
+    {
+        "text":  "Council of Jerusalem",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "A church meeting over Gentile belonging."
+    },
+    {
+        "text":  "Jacob\u0027s Ladder",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "A dream connects heaven and earth."
+    },
+    {
+        "text":  "Gideon\u0027s Fleece",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "A sign requested by an unsure leader."
+    },
+    {
+        "text":  "Writing on the Wall",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "A feast interrupted by a terrifying message."
+    },
+    {
+        "text":  "Transfiguration",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "A mountain glimpse of hidden glory."
+    },
+    {
+        "text":  "Anointing at Bethany",
+        "category":  "Events",
+        "difficulty":  "Hard",
+        "hint":  "Costly devotion before a painful week."
+    },
+    {
+        "text":  "Justification",
+        "category":  "General",
+        "difficulty":  "Hard",
+        "hint":  "A legal image for being made right."
+    },
+    {
+        "text":  "Sanctification",
+        "category":  "General",
+        "difficulty":  "Hard",
+        "hint":  "Growth in holiness over time."
+    },
+    {
+        "text":  "Atonement",
+        "category":  "General",
+        "difficulty":  "Hard",
+        "hint":  "Repairing the breach caused by sin."
+    },
+    {
+        "text":  "Exile",
+        "category":  "General",
+        "difficulty":  "Hard",
+        "hint":  "Life away from home under judgment."
+    },
+    {
+        "text":  "Remnant",
+        "category":  "General",
+        "difficulty":  "Hard",
+        "hint":  "A preserved group after disaster."
+    },
+    {
+        "text":  "Wisdom Literature",
+        "category":  "Books",
+        "difficulty":  "Hard",
+        "hint":  "Scripture that asks how to live well."
+    },
+    {
+        "text":  "Minor Prophets",
+        "category":  "Books",
+        "difficulty":  "Hard",
+        "hint":  "Short prophetic books with sharp messages."
+    },
+    {
+        "text":  "Ecclesiastes",
+        "category":  "Books",
+        "difficulty":  "Hard",
+        "hint":  "A searching book about meaning and limits."
+    },
+    {
+        "text":  "Hebrews",
+        "category":  "Books",
+        "difficulty":  "Hard",
+        "hint":  "A sermon-letter about endurance and priesthood."
+    },
+    {
+        "text":  "Revelation",
+        "category":  "Books",
+        "difficulty":  "Hard",
+        "hint":  "Visions, worship, warning, and hope."
+    }
+]
