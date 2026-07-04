@@ -1289,7 +1289,9 @@ class BidWarHandler(BaseHTTPRequestHandler):
             self.respond_json({"version": version, "seconds_left": seconds_left})
             return
         if parsed.path not in ("/", "/index.html"):
-            self.send_error(404)
+            self.send_response(302)
+            self.send_header("Location", "/")
+            self.end_headers()
             return
 
         session_id, created = get_or_create_session(self)
