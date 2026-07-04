@@ -1154,8 +1154,8 @@ class BlindRankingHandler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def serve_asset(self, path):
-        relative = path[len("/assets/") :].replace("/", "\\")
-        asset_path = (ASSET_ROOT / relative).resolve()
+        relative_parts = [part for part in path[len("/assets/") :].split("/") if part]
+        asset_path = ASSET_ROOT.joinpath(*relative_parts).resolve()
         try:
             asset_path.relative_to(ASSET_ROOT.resolve())
         except ValueError:

@@ -1741,8 +1741,8 @@ class InterfaceHandler(BaseHTTPRequestHandler):
 
     def send_asset(self):
         asset_url_path = urlparse(self.path).path
-        relative_path = unquote(asset_url_path[len("/assets/"):]).replace("/", "\\")
-        asset_path = (ASSET_ROOT / relative_path).resolve()
+        relative_parts = [part for part in unquote(asset_url_path[len("/assets/"):]).split("/") if part]
+        asset_path = ASSET_ROOT.joinpath(*relative_parts).resolve()
         try:
             asset_path.relative_to(ASSET_ROOT.resolve())
         except ValueError:
