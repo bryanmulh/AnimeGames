@@ -256,6 +256,15 @@ def mounted_location(location, prefix):
 class CombinedHandler(BaseHTTPRequestHandler):
     mount_prefix = ""
     stripped_path = ""
+    active_handler = None
+
+    def __getattr__(self, name):
+        if self.active_handler and hasattr(self.active_handler, name):
+            attribute = getattr(self.active_handler, name)
+            if callable(attribute):
+                return attribute.__get__(self, self.__class__)
+            return attribute
+        raise AttributeError(name)
 
     def do_GET(self):
         mount = self.find_mount()
@@ -290,6 +299,7 @@ class CombinedHandler(BaseHTTPRequestHandler):
 
         self.mount_prefix = prefix
         self.stripped_path = stripped + query
+        self.active_handler = mount["handler"]
         self.path = self.stripped_path
         try:
             getattr(mount["handler"], method_name)(self)
@@ -297,6 +307,7 @@ class CombinedHandler(BaseHTTPRequestHandler):
             self.path = original_path
             self.mount_prefix = ""
             self.stripped_path = ""
+            self.active_handler = None
 
     def send_launcher(self):
         body = launcher_html()
@@ -321,7 +332,16 @@ class CombinedHandler(BaseHTTPRequestHandler):
         self.wfile.write(body)
 
     def respond_html(self, body, session_id, created=False):
-        html = body.decode("utf-8")
+        if isinstance(body, bytes):
+            html = body.decode("utf-8")
+        elif self.mount_prefix == "/bid-war":
+            html, _cookie_header = bid_war_app.page_shell(body, session_id, created)
+            html = html.decode("utf-8")
+        elif self.mount_prefix == "/blind-ranking":
+            html, _cookie_header = blind_ranking_app.page_shell(body, session_id, created)
+            html = html.decode("utf-8")
+        else:
+            html = body
         rewritten = html_rewrite_prefix(html, self.mount_prefix).encode("utf-8")
         self.send_response(200)
         if created:
