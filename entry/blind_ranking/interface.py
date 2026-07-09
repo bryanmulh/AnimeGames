@@ -19,6 +19,7 @@ BASE_DIR = Path(__file__).resolve().parents[1]
 ASSET_ROOT = BASE_DIR / "assets"
 CARD_ROOT = ASSET_ROOT / "cards"
 DECKS = {
+    "BC": "Black Clover",
     "DS": "Demon Slayer",
     "JJK": "Jujutsu Kaisen",
     "MHA": "My Hero Academia",

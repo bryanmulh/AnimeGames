@@ -1,0 +1,1163 @@
+[
+  {
+    "name": "Asta",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\asta.png",
+    "source": "https://blackclover.fandom.com/wiki/Asta",
+    "image_source": "File:Asta anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Anti-Magic swordsman who nullifies spells and wins through physical power and willpower.",
+      "strengths": [
+        "Anti-Magic",
+        "Swords",
+        "Durability"
+      ],
+      "weaknesses": [
+        "No mana",
+        "Close-range leaning"
+      ]
+    }
+  },
+  {
+    "name": "Yuno Grinberryall",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\yuno_grinberryall.png",
+    "source": "https://blackclover.fandom.com/wiki/Yuno_Grinberryall",
+    "image_source": "File:Yuno anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Wind magic prodigy with Sylph, high mobility, and elite ranged pressure.",
+      "strengths": [
+        "Wind Magic",
+        "Spirit Dive",
+        "Range"
+      ],
+      "weaknesses": [
+        "Can be pressured physically"
+      ]
+    }
+  },
+  {
+    "name": "Noelle Silva",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\noelle_silva.png",
+    "source": "https://blackclover.fandom.com/wiki/Noelle_Silva",
+    "image_source": "File:Noelle Silva anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Royal water mage whose control and Valkyrie armor turn huge mana into strong offense and defense.",
+      "strengths": [
+        "Water Magic",
+        "Valkyrie armor",
+        "Mana pool"
+      ],
+      "weaknesses": [
+        "Control issues early"
+      ]
+    }
+  },
+  {
+    "name": "Yami Sukehiro",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\yami_sukehiro.png",
+    "source": "https://blackclover.fandom.com/wiki/Yami_Sukehiro",
+    "image_source": "File:Yami anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Dark Magic captain with ki sensing, dimension-cutting attacks, and elite close combat.",
+      "strengths": [
+        "Dark Magic",
+        "Ki",
+        "Swordsmanship"
+      ],
+      "weaknesses": [
+        "Short temper",
+        "Direct style"
+      ]
+    }
+  },
+  {
+    "name": "Magna Swing",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\magna_swing.png",
+    "source": "https://blackclover.fandom.com/wiki/Magna_Swing",
+    "image_source": "File:Magna anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Fire Magic brawler who relies on guts, baseball-like projectiles, and scrappy tactics.",
+      "strengths": [
+        "Fireballs",
+        "Grit",
+        "Improvisation"
+      ],
+      "weaknesses": [
+        "Lower mana"
+      ]
+    }
+  },
+  {
+    "name": "Luck Voltia",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\luck_voltia.png",
+    "source": "https://blackclover.fandom.com/wiki/Luck_Voltia",
+    "image_source": "File:Luck anime profile.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Lightning Magic fighter built for speed, dueling, and aggressive close-range pressure.",
+      "strengths": [
+        "Speed",
+        "Lightning",
+        "Battle instinct"
+      ],
+      "weaknesses": [
+        "Reckless"
+      ]
+    }
+  },
+  {
+    "name": "Gauche Adlai",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\gauche_adlai.png",
+    "source": "https://blackclover.fandom.com/wiki/Gauche_Adlai",
+    "image_source": "File:Gauche anime profile.png",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Mirror Magic user who reflects, duplicates, and supports allies with tricky spell angles.",
+      "strengths": [
+        "Mirrors",
+        "Duplication",
+        "Support"
+      ],
+      "weaknesses": [
+        "Self-centered openings"
+      ]
+    }
+  },
+  {
+    "name": "Charmy Pappitson",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\charmy_pappitson.png",
+    "source": "https://blackclover.fandom.com/wiki/Charmy_Pappitson",
+    "image_source": "File:Charmy anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Cotton and food magic user whose appetite hides huge mana recovery and surprise power.",
+      "strengths": [
+        "Mana recovery",
+        "Cotton Magic",
+        "Surprise power"
+      ],
+      "weaknesses": [
+        "Food-focused"
+      ]
+    }
+  },
+  {
+    "name": "Vanessa Enoteca",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\vanessa_enoteca.png",
+    "source": "https://blackclover.fandom.com/wiki/Vanessa_Enoteca",
+    "image_source": "File:Vanessa anime profile.png",
+    "duel": "B",
+    "team": "S",
+    "ability": {
+      "summary": "Thread Magic witch whose Red Thread of Fate can redirect deadly outcomes for allies.",
+      "strengths": [
+        "Fate support",
+        "Threads",
+        "Team survival"
+      ],
+      "weaknesses": [
+        "Mana intensive"
+      ]
+    }
+  },
+  {
+    "name": "Finral Roulacase",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\finral_roulacase.png",
+    "source": "https://blackclover.fandom.com/wiki/Finral_Roulacase",
+    "image_source": "File:Finral anime profile.png",
+    "duel": "C",
+    "team": "A",
+    "ability": {
+      "summary": "Spatial Magic support mage who provides team mobility, rescues, and positioning plays.",
+      "strengths": [
+        "Portals",
+        "Mobility",
+        "Rescue"
+      ],
+      "weaknesses": [
+        "Low direct damage"
+      ]
+    }
+  },
+  {
+    "name": "Gordon Agrippa",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\gordon_agrippa.png",
+    "source": "https://blackclover.fandom.com/wiki/Gordon_Agrippa",
+    "image_source": "File:Gordon anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Poison Magic user with curse knowledge and strong but dangerous debuff potential.",
+      "strengths": [
+        "Poison",
+        "Curse knowledge",
+        "Debuffs"
+      ],
+      "weaknesses": [
+        "Friendly-fire risk"
+      ]
+    }
+  },
+  {
+    "name": "Grey",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\grey.png",
+    "source": "https://blackclover.fandom.com/wiki/Grey",
+    "image_source": "File:Grey anime profile.png",
+    "duel": "C",
+    "team": "B",
+    "ability": {
+      "summary": "Transformation Magic user whose true power supports alteration, disguise, and unexpected recovery.",
+      "strengths": [
+        "Transformation",
+        "Support",
+        "Disguise"
+      ],
+      "weaknesses": [
+        "Low confidence"
+      ]
+    }
+  },
+  {
+    "name": "Henry Legolant",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\henry_legolant.png",
+    "source": "https://blackclover.fandom.com/wiki/Henry_Legolant",
+    "image_source": "File:Henry anime profile.png",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Recombination Magic user who turns the Black Bulls base into a mobile fortress.",
+      "strengths": [
+        "Base control",
+        "Team defense",
+        "Ambush"
+      ],
+      "weaknesses": [
+        "Mana drain condition"
+      ]
+    }
+  },
+  {
+    "name": "Zora Ideale",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\zora_ideale.png",
+    "source": "https://blackclover.fandom.com/wiki/Zora_Ideale",
+    "image_source": "File:Zora anime profile.png",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Trap Magic specialist who punishes stronger foes with preparation and counterspells.",
+      "strengths": [
+        "Traps",
+        "Counters",
+        "Tactics"
+      ],
+      "weaknesses": [
+        "Needs setup"
+      ]
+    }
+  },
+  {
+    "name": "Secre Swallowtail",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\secre_swallowtail.png",
+    "source": "https://blackclover.fandom.com/wiki/Secre_Swallowtail",
+    "image_source": "File:Secre anime profile.png",
+    "duel": "C",
+    "team": "A",
+    "ability": {
+      "summary": "Sealing Magic user who locks, opens, and stabilizes magic with rare support utility.",
+      "strengths": [
+        "Sealing Magic",
+        "Utility",
+        "Ancient knowledge"
+      ],
+      "weaknesses": [
+        "Low direct offense"
+      ]
+    }
+  },
+  {
+    "name": "Nacht Faust",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\nacht_faust.png",
+    "source": "https://blackclover.fandom.com/wiki/Nacht_Faust",
+    "image_source": "File:Nacht profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Shadow Magic vice-captain who uses devil contracts, stealth, and battlefield control.",
+      "strengths": [
+        "Shadow Magic",
+        "Devils",
+        "Stealth"
+      ],
+      "weaknesses": [
+        "Anime feats limited"
+      ]
+    }
+  },
+  {
+    "name": "Liebe",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\liebe.png",
+    "source": "https://blackclover.fandom.com/wiki/Liebe",
+    "image_source": "File:Liebe anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Anti-Magic devil whose power fuels Asta's swords and counters magical threats directly.",
+      "strengths": [
+        "Anti-Magic",
+        "Devil power",
+        "Magic nullification"
+      ],
+      "weaknesses": [
+        "Works best with Asta"
+      ]
+    }
+  },
+  {
+    "name": "Julius Novachrono",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\julius_novachrono.png",
+    "source": "https://blackclover.fandom.com/wiki/Julius_Novachrono",
+    "image_source": "File:Julius anime profile.png",
+    "duel": "S",
+    "team": "S",
+    "ability": {
+      "summary": "Wizard King with Time Magic, overwhelming speed control, and kingdom-level presence.",
+      "strengths": [
+        "Time Magic",
+        "Speed control",
+        "Experience"
+      ],
+      "weaknesses": [
+        "Protective priorities"
+      ]
+    }
+  },
+  {
+    "name": "Mimosa Vermillion",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\mimosa_vermillion.png",
+    "source": "https://blackclover.fandom.com/wiki/Mimosa_Vermillion",
+    "image_source": "File:Mimosa anime profile.png",
+    "duel": "C",
+    "team": "A",
+    "ability": {
+      "summary": "Plant Magic royal who combines healing, scouting, and reliable team support.",
+      "strengths": [
+        "Healing",
+        "Plant Magic",
+        "Tracking"
+      ],
+      "weaknesses": [
+        "Low duel power"
+      ]
+    }
+  },
+  {
+    "name": "Klaus Lunettes",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\klaus_lunettes.png",
+    "source": "https://blackclover.fandom.com/wiki/Klaus_Lunettes",
+    "image_source": "File:Klaus anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Steel Magic Golden Dawn member who provides disciplined mid-range offense and defense.",
+      "strengths": [
+        "Steel Magic",
+        "Discipline",
+        "Defense"
+      ],
+      "weaknesses": [
+        "Lower ceiling"
+      ]
+    }
+  },
+  {
+    "name": "William Vangeance",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\william_vangeance.png",
+    "source": "https://blackclover.fandom.com/wiki/William_Vangeance",
+    "image_source": "File:William anime profile.png",
+    "duel": "A",
+    "team": "S",
+    "ability": {
+      "summary": "World Tree Magic captain whose spells are massive, supportive, and strategically valuable.",
+      "strengths": [
+        "World Tree Magic",
+        "Scale",
+        "Support"
+      ],
+      "weaknesses": [
+        "Split identity baggage"
+      ]
+    }
+  },
+  {
+    "name": "Langris Vaude",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\langris_vaude.png",
+    "source": "https://blackclover.fandom.com/wiki/Langris_Vaude",
+    "image_source": "File:Langris anime profile.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Spatial Magic prodigy whose offensive space-erasing spells are extremely dangerous.",
+      "strengths": [
+        "Spatial erasure",
+        "Range",
+        "Mana"
+      ],
+      "weaknesses": [
+        "Arrogance",
+        "Control issues"
+      ]
+    }
+  },
+  {
+    "name": "Nozel Silva",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\nozel_silva.png",
+    "source": "https://blackclover.fandom.com/wiki/Nozel_Silva",
+    "image_source": "File:Nozel anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Mercury Magic captain with precise liquid-metal offense, defense, and royal mana.",
+      "strengths": [
+        "Mercury Magic",
+        "Precision",
+        "Defense"
+      ],
+      "weaknesses": [
+        "Pride"
+      ]
+    }
+  },
+  {
+    "name": "Fuegoleon Vermillion",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\fuegoleon_vermillion.png",
+    "source": "https://blackclover.fandom.com/wiki/Fuegoleon_Vermillion",
+    "image_source": "File:Fuegoleon anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Fire Magic captain with leadership, Salamander, and powerful ranged offense.",
+      "strengths": [
+        "Fire Magic",
+        "Leadership",
+        "Salamander"
+      ],
+      "weaknesses": [
+        "Direct style"
+      ]
+    }
+  },
+  {
+    "name": "Mereoleona Vermillion",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\mereoleona_vermillion.png",
+    "source": "https://blackclover.fandom.com/wiki/Mereoleona_Vermillion",
+    "image_source": "File:Mereoleona anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Mana Zone master and close-range monster whose fire-enhanced combat overwhelms elites.",
+      "strengths": [
+        "Mana Zone",
+        "Fire combat",
+        "Physical pressure"
+      ],
+      "weaknesses": [
+        "Aggressive"
+      ]
+    }
+  },
+  {
+    "name": "Leopold Vermillion",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\leopold_vermillion.png",
+    "source": "https://blackclover.fandom.com/wiki/Leopold_Vermillion",
+    "image_source": "File:Leopold anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Fire Magic royal with strong potential, stamina, and straightforward offensive spells.",
+      "strengths": [
+        "Fire Magic",
+        "Potential",
+        "Stamina"
+      ],
+      "weaknesses": [
+        "Still developing"
+      ]
+    }
+  },
+  {
+    "name": "Charlotte Roselei",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\charlotte_roselei.png",
+    "source": "https://blackclover.fandom.com/wiki/Charlotte_Roselei",
+    "image_source": "File:Charlotte anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Briar Magic captain whose thorny battlefield control pairs offense with restraint.",
+      "strengths": [
+        "Briar Magic",
+        "Control",
+        "Captain skill"
+      ],
+      "weaknesses": [
+        "Curse history"
+      ]
+    }
+  },
+  {
+    "name": "Jack the Ripper",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\jack_the_ripper.png",
+    "source": "https://blackclover.fandom.com/wiki/Jack_the_Ripper",
+    "image_source": "File:Jack anime profile.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Slash Magic captain whose blades adapt to cut through enemy magic.",
+      "strengths": [
+        "Adaptive slashes",
+        "Offense",
+        "Persistence"
+      ],
+      "weaknesses": [
+        "Reckless"
+      ]
+    }
+  },
+  {
+    "name": "Rill Boismortier",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\rill_boismortier.png",
+    "source": "https://blackclover.fandom.com/wiki/Rill_Boismortier",
+    "image_source": "File:Rill anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Painting Magic captain whose imagination creates versatile elemental attacks.",
+      "strengths": [
+        "Painting Magic",
+        "Versatility",
+        "Creativity"
+      ],
+      "weaknesses": [
+        "Immaturity"
+      ]
+    }
+  },
+  {
+    "name": "Dorothy Unsworth",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\dorothy_unsworth.png",
+    "source": "https://blackclover.fandom.com/wiki/Dorothy_Unsworth",
+    "image_source": "File:Dorothy anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Dream Magic captain who traps foes in a reality-warping glamour world.",
+      "strengths": [
+        "Dream Magic",
+        "Battlefield control",
+        "Hax"
+      ],
+      "weaknesses": [
+        "Sleepy outside combat"
+      ]
+    }
+  },
+  {
+    "name": "Kaiser Granvorka",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\kaiser_granvorka.png",
+    "source": "https://blackclover.fandom.com/wiki/Kaiser_Granvorka",
+    "image_source": "File:Kaiser Granvorka Character Profile.png",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Vortex Magic captain specializing in defense and magic redirection.",
+      "strengths": [
+        "Vortex Magic",
+        "Defense",
+        "Redirection"
+      ],
+      "weaknesses": [
+        "Lower offense"
+      ]
+    }
+  },
+  {
+    "name": "Kirsch Vermillion",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\kirsch_vermillion.png",
+    "source": "https://blackclover.fandom.com/wiki/Kirsch_Vermillion",
+    "image_source": "File:Kirsch anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Cherry Blossom Magic noble who uses beautiful illusions and petal-based control.",
+      "strengths": [
+        "Illusions",
+        "Area control",
+        "Mobility"
+      ],
+      "weaknesses": [
+        "Vanity"
+      ]
+    }
+  },
+  {
+    "name": "Sol Marron",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\sol_marron.png",
+    "source": "https://blackclover.fandom.com/wiki/Sol_Marron",
+    "image_source": "File:Sol anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Earth Magic fighter who creates large constructs and defensive terrain.",
+      "strengths": [
+        "Earth Magic",
+        "Defense",
+        "Constructs"
+      ],
+      "weaknesses": [
+        "Less versatile"
+      ]
+    }
+  },
+  {
+    "name": "Sekke Bronzazza",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\sekke_bronzazza.png",
+    "source": "https://blackclover.fandom.com/wiki/Sekke_Bronzazza",
+    "image_source": "File:Sekke anime profile.png",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Bronze Magic comic relief whose defensive spells and luck keep him around.",
+      "strengths": [
+        "Bronze defense",
+        "Survival luck"
+      ],
+      "weaknesses": [
+        "Cowardice",
+        "Low output"
+      ]
+    }
+  },
+  {
+    "name": "Lemiel Silvamillion Clover",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\lemiel_silvamillion_clover.png",
+    "source": "https://blackclover.fandom.com/wiki/Lemiel_Silvamillion_Clover",
+    "image_source": "File:Lemiel anime profile.png",
+    "duel": "S",
+    "team": "S",
+    "ability": {
+      "summary": "First Wizard King with Light Magic speed and legendary magic power.",
+      "strengths": [
+        "Light Magic",
+        "Speed",
+        "Legendary mana"
+      ],
+      "weaknesses": [
+        "Limited revived time"
+      ]
+    }
+  },
+  {
+    "name": "Licht",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\licht.png",
+    "source": "https://blackclover.fandom.com/wiki/Licht",
+    "image_source": "File:Licht profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Elf leader with Sword Magic, immense mana, and ancient legendary status.",
+      "strengths": [
+        "Sword Magic",
+        "Elf mana",
+        "Speed"
+      ],
+      "weaknesses": [
+        "Tragic limitations"
+      ]
+    }
+  },
+  {
+    "name": "Patolli",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\patolli.png",
+    "source": "https://blackclover.fandom.com/wiki/Patolli",
+    "image_source": "File:Patolli anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Light Magic elf leader whose speed and hatred drive the Eye of the Midnight Sun.",
+      "strengths": [
+        "Light Magic",
+        "Speed",
+        "Leadership"
+      ],
+      "weaknesses": [
+        "Emotional manipulation"
+      ]
+    }
+  },
+  {
+    "name": "Rhya",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\rhya.png",
+    "source": "https://blackclover.fandom.com/wiki/Rhya",
+    "image_source": "File:Rhya anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Copy Magic Third Eye member who imitates spells and fights with deceptive versatility.",
+      "strengths": [
+        "Copy Magic",
+        "Versatility",
+        "Deception"
+      ],
+      "weaknesses": [
+        "Needs copied options"
+      ]
+    }
+  },
+  {
+    "name": "Vetto",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\vetto.png",
+    "source": "https://blackclover.fandom.com/wiki/Vetto",
+    "image_source": "File:Vetto initial concept full body.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Beast Magic Third Eye fighter with overwhelming physical strength and despair-fueled pressure.",
+      "strengths": [
+        "Beast Magic",
+        "Strength",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Brutal directness"
+      ]
+    }
+  },
+  {
+    "name": "Fana",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\fana.png",
+    "source": "https://blackclover.fandom.com/wiki/Fana",
+    "image_source": "File:Fana anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Fire spirit host with Salamander and regeneration-like survival in major fights.",
+      "strengths": [
+        "Fire Spirit",
+        "Range",
+        "Regeneration"
+      ],
+      "weaknesses": [
+        "Emotional instability"
+      ]
+    }
+  },
+  {
+    "name": "Rades Spirito",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\rades_spirito.png",
+    "source": "https://blackclover.fandom.com/wiki/Rades_Spirito",
+    "image_source": "File:Rades anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Corpse Magic necromancer who raises durable undead allies.",
+      "strengths": [
+        "Corpse Magic",
+        "Numbers",
+        "Persistence"
+      ],
+      "weaknesses": [
+        "Relies on corpses"
+      ]
+    }
+  },
+  {
+    "name": "Sally",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\sally.png",
+    "source": "https://blackclover.fandom.com/wiki/Sally",
+    "image_source": "File:Sally anime profile.png",
+    "duel": "C",
+    "team": "B",
+    "ability": {
+      "summary": "Magic researcher whose tools, gel magic, and experiments make her unpredictable.",
+      "strengths": [
+        "Research",
+        "Tools",
+        "Gel Magic"
+      ],
+      "weaknesses": [
+        "Chaotic focus"
+      ]
+    }
+  },
+  {
+    "name": "Valtos",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\valtos.png",
+    "source": "https://blackclover.fandom.com/wiki/Valtos",
+    "image_source": "File:Valtos anime profile.png",
+    "duel": "C",
+    "team": "A",
+    "ability": {
+      "summary": "Spatial Magic transport specialist who enables ambushes and escapes.",
+      "strengths": [
+        "Spatial transport",
+        "Mobility",
+        "Support"
+      ],
+      "weaknesses": [
+        "Low direct offense"
+      ]
+    }
+  },
+  {
+    "name": "Catherine",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\catherine.png",
+    "source": "https://blackclover.fandom.com/wiki/Catherine",
+    "image_source": "File:Catherine anime profile.png",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Ash Magic witch who drains mana and pressures civilians or weaker mages.",
+      "strengths": [
+        "Mana drain",
+        "Ash Magic"
+      ],
+      "weaknesses": [
+        "Outclassed by elites"
+      ]
+    }
+  },
+  {
+    "name": "Heath Graice",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\heath_graice.png",
+    "source": "https://blackclover.fandom.com/wiki/Heath_Graice",
+    "image_source": "File:Heath anime profile.png",
+    "duel": "C",
+    "team": "C",
+    "ability": {
+      "summary": "Ice Magic attacker from an early arc who pressures villages with ranged spells.",
+      "strengths": [
+        "Ice Magic",
+        "Range"
+      ],
+      "weaknesses": [
+        "Early-tier threat"
+      ]
+    }
+  },
+  {
+    "name": "Lotus Whomalt",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\lotus_whomalt.png",
+    "source": "https://blackclover.fandom.com/wiki/Lotus_Whomalt",
+    "image_source": "File:Lotus anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Smoke Magic Diamond mage who survives through tricks, experience, and evasion.",
+      "strengths": [
+        "Smoke Magic",
+        "Experience",
+        "Evasion"
+      ],
+      "weaknesses": [
+        "Avoids direct fights"
+      ]
+    }
+  },
+  {
+    "name": "Mars",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\mars.png",
+    "source": "https://blackclover.fandom.com/wiki/Mars",
+    "image_source": "File:Mars anime profile.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Diamond Kingdom experiment using crystal and fire magic for offense and defense.",
+      "strengths": [
+        "Crystal Magic",
+        "Fire Magic",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Conditioning trauma"
+      ]
+    }
+  },
+  {
+    "name": "Ladros",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\ladros.png",
+    "source": "https://blackclover.fandom.com/wiki/Ladros",
+    "image_source": "File:Ladros anime profile.png",
+    "duel": "A",
+    "team": "B",
+    "ability": {
+      "summary": "Diamond Kingdom mage who absorbs and redirects magic energy.",
+      "strengths": [
+        "Absorption",
+        "Redirection",
+        "Durability"
+      ],
+      "weaknesses": [
+        "Anti-Magic matchup"
+      ]
+    }
+  },
+  {
+    "name": "Witch Queen",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\witch_queen.png",
+    "source": "https://blackclover.fandom.com/wiki/Witch_Queen",
+    "image_source": "File:Witch Queen anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Blood Magic ruler with healing, control, and terrifying command over bodies.",
+      "strengths": [
+        "Blood Magic",
+        "Healing",
+        "Control"
+      ],
+      "weaknesses": [
+        "Overconfidence"
+      ]
+    }
+  },
+  {
+    "name": "Zagred",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\zagred.png",
+    "source": "https://blackclover.fandom.com/wiki/Zagred",
+    "image_source": "File:Zagred anime profile.png",
+    "duel": "S",
+    "team": "S",
+    "ability": {
+      "summary": "Word Soul devil who manipulates reality through speech and orchestrates the elf tragedy.",
+      "strengths": [
+        "Word Soul Magic",
+        "Devil body",
+        "Reality effects"
+      ],
+      "weaknesses": [
+        "Anti-Magic and arcane counters"
+      ]
+    }
+  },
+  {
+    "name": "Dante Zogratis",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\dante_zogratis.png",
+    "source": "https://blackclover.fandom.com/wiki/Dante_Zogratis",
+    "image_source": "File:Dante anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Dark Triad leader using Gravity Magic and devil power for overwhelming pressure.",
+      "strengths": [
+        "Gravity Magic",
+        "Body Magic",
+        "Devil power"
+      ],
+      "weaknesses": [
+        "Arrogance"
+      ]
+    }
+  },
+  {
+    "name": "Vanica Zogratis",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\vanica_zogratis.png",
+    "source": "https://blackclover.fandom.com/wiki/Vanica_Zogratis",
+    "image_source": "File:Vanica anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Dark Triad fighter using Blood Magic and Megicula's curse power.",
+      "strengths": [
+        "Blood Magic",
+        "Curses",
+        "Devil power"
+      ],
+      "weaknesses": [
+        "Battle obsession"
+      ]
+    }
+  },
+  {
+    "name": "Zenon Zogratis",
+    "side": "villain",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\zenon_zogratis.png",
+    "source": "https://blackclover.fandom.com/wiki/Zenon_Zogratis",
+    "image_source": "File:Zenon anime profile.png",
+    "duel": "S",
+    "team": "A",
+    "ability": {
+      "summary": "Dark Triad spatial and bone mage whose battlefield control devastates squads.",
+      "strengths": [
+        "Bone Magic",
+        "Spatial Magic",
+        "Devil power"
+      ],
+      "weaknesses": [
+        "Cold tunnel vision"
+      ]
+    }
+  },
+  {
+    "name": "Lolopechka",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\lolopechka.png",
+    "source": "https://blackclover.fandom.com/wiki/Lolopechka",
+    "image_source": "File:Lolopechka anime profile.png",
+    "duel": "B",
+    "team": "S",
+    "ability": {
+      "summary": "Heart Kingdom queen whose water and knowledge magic support an entire nation.",
+      "strengths": [
+        "Water Magic",
+        "Support",
+        "Knowledge"
+      ],
+      "weaknesses": [
+        "Curse vulnerability"
+      ]
+    }
+  },
+  {
+    "name": "Gadjah",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\gadjah.png",
+    "source": "https://blackclover.fandom.com/wiki/Gadjah",
+    "image_source": "File:Gadjah anime profile.png",
+    "duel": "A",
+    "team": "A",
+    "ability": {
+      "summary": "Heart Kingdom Spirit Guardian with powerful Lightning Magic and expert mana method.",
+      "strengths": [
+        "Lightning Magic",
+        "Mana Method",
+        "Range"
+      ],
+      "weaknesses": [
+        "Protective priorities"
+      ]
+    }
+  },
+  {
+    "name": "Undine",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\undine.png",
+    "source": "https://blackclover.fandom.com/wiki/Undine",
+    "image_source": "File:Undine profile.png",
+    "duel": "B",
+    "team": "A",
+    "ability": {
+      "summary": "Water spirit who massively amplifies water mages and supports Heart Kingdom defense.",
+      "strengths": [
+        "Water Spirit",
+        "Amplification",
+        "Support"
+      ],
+      "weaknesses": [
+        "Needs host"
+      ]
+    }
+  },
+  {
+    "name": "Kahono",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\kahono.png",
+    "source": "https://blackclover.fandom.com/wiki/Kahono",
+    "image_source": "File:Kahono anime profile.png",
+    "duel": "C",
+    "team": "B",
+    "ability": {
+      "summary": "Song Magic priestess who supports allies with healing and sound-based spells.",
+      "strengths": [
+        "Song Magic",
+        "Healing",
+        "Support"
+      ],
+      "weaknesses": [
+        "Limited combat"
+      ]
+    }
+  },
+  {
+    "name": "Kiato",
+    "side": "hero",
+    "file": "C:\\Users\\bryan\\PycharmProjects\\AnimeBattlerThing\\entry\\assets\\cards\\BC\\kiato.png",
+    "source": "https://blackclover.fandom.com/wiki/Kiato",
+    "image_source": "File:Kiato anime profile.png",
+    "duel": "B",
+    "team": "B",
+    "ability": {
+      "summary": "Dance Magic fighter who uses graceful movement and blades in close combat.",
+      "strengths": [
+        "Dance Magic",
+        "Mobility",
+        "Swords"
+      ],
+      "weaknesses": [
+        "Lower ceiling"
+      ]
+    }
+  }
+]

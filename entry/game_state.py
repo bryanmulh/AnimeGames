@@ -16,7 +16,7 @@ ROUND_PLANS = {
 state_lock = Lock()
 state_version = {"value": 0}
 ASSET_ROOT = Path(__file__).resolve().parent / "assets"
-CARD_SET = "JJK"
+CARD_SETS = ("JJK", "BC")
 
 
 def new_game_state():
@@ -37,33 +37,38 @@ game_state = new_game_state()
 
 
 def load_card_deck():
-    manifest_path = ASSET_ROOT / "cards" / CARD_SET / "_manifest.json"
-    if not manifest_path.exists():
-        return [
-            {
-                "id": str(number),
-                "name": str(number),
-                "image": "",
-            }
-            for number in range(1, 51)
-        ]
-
-    with manifest_path.open("r", encoding="utf-8") as manifest_file:
-        manifest = json.load(manifest_file)
-
     deck = []
-    for item in manifest:
-        file_name = Path(item["file"]).name
-        card_id = Path(file_name).stem
-        asset_path = ASSET_ROOT / "cards" / CARD_SET / file_name
-        version = int(asset_path.stat().st_mtime) if asset_path.exists() else 0
-        deck.append({
-            "id": card_id,
-            "name": item["name"],
-            "image": f"/assets/cards/{CARD_SET}/{file_name}?v={version}",
-            "ability": item.get("ability", ""),
-        })
-    return deck
+    for card_set in CARD_SETS:
+        manifest_path = ASSET_ROOT / "cards" / card_set / "_manifest.json"
+        if not manifest_path.exists():
+            continue
+
+        with manifest_path.open("r", encoding="utf-8-sig") as manifest_file:
+            manifest = json.load(manifest_file)
+
+        for item in manifest:
+            file_name = Path(item["file"]).name
+            card_id = Path(file_name).stem
+            asset_path = ASSET_ROOT / "cards" / card_set / file_name
+            version = int(asset_path.stat().st_mtime) if asset_path.exists() else 0
+            deck.append({
+                "id": f"{card_set.lower()}-{card_id}",
+                "name": item["name"],
+                "image": f"/assets/cards/{card_set}/{file_name}?v={version}",
+                "ability": item.get("ability", ""),
+            })
+
+    if deck:
+        return deck
+
+    return [
+        {
+            "id": str(number),
+            "name": str(number),
+            "image": "",
+        }
+        for number in range(1, 51)
+    ]
 
 
 CARD_DECK = load_card_deck()
