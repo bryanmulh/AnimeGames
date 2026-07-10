@@ -2,6 +2,7 @@ import json
 import mimetypes
 import os
 import random
+import sys
 import time
 from html import escape
 from http import cookies
@@ -18,12 +19,10 @@ PORT = int(os.environ.get("PORT", "8001"))
 BASE_DIR = Path(__file__).resolve().parents[1]
 ASSET_ROOT = BASE_DIR / "assets"
 CARD_ROOT = ASSET_ROOT / "cards"
-DECKS = {
-    "BC": "Black Clover",
-    "DS": "Demon Slayer",
-    "JJK": "Jujutsu Kaisen",
-    "MHA": "My Hero Academia",
-}
+sys.path.insert(0, str(BASE_DIR))
+from deck_config import DECKS
+from deck_config import load_cards as load_deck_config_cards
+
 DEFAULT_DECK = "DS"
 SLOT_COUNT = 5
 CLIENT_TIMEOUT_SECONDS = 20
@@ -49,39 +48,7 @@ def deck_dir(deck_key):
 
 def load_cards(deck_key):
     deck_key = valid_deck_key(deck_key)
-    card_dir = deck_dir(deck_key)
-    manifest_path = card_dir / "_manifest.json"
-    if manifest_path.exists():
-        with manifest_path.open("r", encoding="utf-8") as file:
-            manifest = json.load(file)
-
-        cards = []
-        for index, card in enumerate(manifest):
-            file_name = Path(card.get("file", "")).name
-            if not file_name:
-                continue
-            image_path = card_dir / file_name
-            if not image_path.exists():
-                continue
-            card_data = {
-                "id": f"{deck_key.lower()}-{index}-{image_path.stem}",
-                "name": card.get("name") or image_path.stem.replace("_", " ").title(),
-                "image": f"/assets/cards/{deck_key}/{file_name}?v={int(image_path.stat().st_mtime)}",
-            }
-            if deck_key == "JJK" and card.get("ability"):
-                card_data["ability"] = card["ability"]
-            cards.append(card_data)
-        if cards:
-            return cards
-
-    return [
-        {
-            "id": f"{deck_key.lower()}-{image_path.stem}",
-            "name": image_path.stem.replace("_", " ").title(),
-            "image": f"/assets/cards/{deck_key}/{image_path.name}?v={int(image_path.stat().st_mtime)}",
-        }
-        for image_path in sorted(card_dir.glob("*.png"))
-    ]
+    return load_deck_config_cards(deck_key)
 
 
 def fresh_state(deck_key=DEFAULT_DECK):

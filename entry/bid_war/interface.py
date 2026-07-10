@@ -2,6 +2,7 @@ import json
 import mimetypes
 import os
 import random
+import sys
 import time
 from html import escape
 from http import cookies
@@ -23,14 +24,11 @@ CLIENT_TIMEOUT_SECONDS = 20
 BASE_DIR = Path(__file__).resolve().parents[1]
 ASSET_ROOT = BASE_DIR / "assets"
 CARD_ROOT = ASSET_ROOT / "cards"
-DECKS = {
-    "BC": "Black Clover",
-    "DS": "Demon Slayer",
-    "JJK": "Jujutsu Kaisen",
-    "MHA": "My Hero Academia",
-}
+sys.path.insert(0, str(BASE_DIR))
+from deck_config import DECKS
+from deck_config import load_cards as load_deck_config_cards
+
 DEFAULT_DECK = "DS"
-EXCLUDED_BID_WAR_CARD_TERMS = ("gojo", "sukuna")
 
 
 state_lock = Lock()
@@ -51,51 +49,9 @@ def deck_dir(deck_key):
     return CARD_ROOT / valid_deck_key(deck_key)
 
 
-def bid_war_card_allowed(card):
-    searchable = f"{card.get('id', '')} {card.get('name', '')} {card.get('image', '')}".lower()
-    return not any(term in searchable for term in EXCLUDED_BID_WAR_CARD_TERMS)
-
-
 def load_cards(deck_key):
     deck_key = valid_deck_key(deck_key)
-    card_dir = deck_dir(deck_key)
-    manifest_path = card_dir / "_manifest.json"
-    cards = []
-
-    if manifest_path.exists():
-        with manifest_path.open("r", encoding="utf-8") as file:
-            manifest = json.load(file)
-
-        for index, card in enumerate(manifest):
-            file_name = Path(card.get("file", "")).name
-            if not file_name:
-                continue
-            image_path = card_dir / file_name
-            if not image_path.exists():
-                continue
-            cards.append(
-                {
-                    "id": f"{deck_key.lower()}-{index}-{image_path.stem}",
-                    "name": card.get("name") or image_path.stem.replace("_", " ").title(),
-                    "image": f"/assets/cards/{deck_key}/{file_name}?v={int(image_path.stat().st_mtime)}",
-                }
-            )
-
-    if cards:
-        return [card for card in cards if bid_war_card_allowed(card)]
-
-    return [
-        card
-        for image_path in sorted(card_dir.glob("*.png"))
-        for card in [
-            {
-                "id": f"{deck_key.lower()}-{image_path.stem}",
-                "name": image_path.stem.replace("_", " ").title(),
-                "image": f"/assets/cards/{deck_key}/{image_path.name}?v={int(image_path.stat().st_mtime)}",
-            }
-        ]
-        if bid_war_card_allowed(card)
-    ]
+    return load_deck_config_cards(deck_key)
 
 
 def normalized_positive_int(value, fallback):

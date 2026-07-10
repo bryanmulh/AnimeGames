@@ -1,7 +1,7 @@
-import json
-from pathlib import Path
 from random import sample
 from threading import Lock
+
+from deck_config import load_many
 
 
 ROUND_PLANS = {
@@ -15,7 +15,6 @@ ROUND_PLANS = {
 
 state_lock = Lock()
 state_version = {"value": 0}
-ASSET_ROOT = Path(__file__).resolve().parent / "assets"
 CARD_SETS = ("JJK", "BC")
 
 
@@ -37,26 +36,7 @@ game_state = new_game_state()
 
 
 def load_card_deck():
-    deck = []
-    for card_set in CARD_SETS:
-        manifest_path = ASSET_ROOT / "cards" / card_set / "_manifest.json"
-        if not manifest_path.exists():
-            continue
-
-        with manifest_path.open("r", encoding="utf-8-sig") as manifest_file:
-            manifest = json.load(manifest_file)
-
-        for item in manifest:
-            file_name = Path(item["file"]).name
-            card_id = Path(file_name).stem
-            asset_path = ASSET_ROOT / "cards" / card_set / file_name
-            version = int(asset_path.stat().st_mtime) if asset_path.exists() else 0
-            deck.append({
-                "id": f"{card_set.lower()}-{card_id}",
-                "name": item["name"],
-                "image": f"/assets/cards/{card_set}/{file_name}?v={version}",
-                "ability": item.get("ability", ""),
-            })
+    deck = load_many(CARD_SETS)
 
     if deck:
         return deck
@@ -74,6 +54,12 @@ def load_card_deck():
 CARD_DECK = load_card_deck()
 
 
+def active_card_deck():
+    global CARD_DECK
+    CARD_DECK = load_card_deck()
+    return CARD_DECK
+
+
 def bump_state_version():
     state_version["value"] += 1
 
@@ -88,7 +74,8 @@ def role_display(role):
 
 def draw_hand():
     if not game_state["deck"]:
-        game_state["deck"] = sample(CARD_DECK, len(CARD_DECK))
+        deck = active_card_deck()
+        game_state["deck"] = sample(deck, len(deck))
 
     hand_size = min(10, len(game_state["deck"]))
     hand = game_state["deck"][:hand_size]
